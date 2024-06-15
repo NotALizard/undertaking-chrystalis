@@ -3,7 +3,7 @@
     "name": "undertaking-chrystalis",
     "title": "Chrystalis Undertaking Homebrew",
     "description": "A collection of Hudson's non-core content.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatibility": {
       "minimum": "11",
       "verified": "11"
