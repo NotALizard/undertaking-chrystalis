@@ -1,0 +1,23 @@
+{
+    "name": "Ghostwise Halfling",
+    "type": "race",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>It is said that halflings were first created with the power of telepathy, so that they may all come to know the minds of their kin better. While impossible to connect a ghostwise halfling&rsquo;s telepathy to this legend, it has led many scholars to look more deeply into this story.</p><p>Ghostwise Halfling are perhaps the most distinct looking of their kind, with proportions more closely resembling that of young humans rather than halflings. Because of this, some theorize that ghostwise halfling are not purebloods, but proof of that has been long lost to time. Ghostwise Halfling stand closer to 3-3.5 feet, making them some of the tallest halflings. Their hair tends to be straighter, but generally falls into all shades and colors, as does their skin tone. Their eyes, however, can range through all human color ranges, as well as more unusual cyans, yellows, oranges, and, most famously, &ldquo;ghostly&rdquo; whites.</p><p>Ghostwise halfling clans are often nomadic, keeping a wide berth from many civilizations, and keeping mostly to themselves. Considered unusually tight-knit and secretive for halflings, ghostwise clans communicate almost entirely through their minds. As a result, a ghostwise halfling with a scratchy, underutilized voice box is not uncommon, though not a rule. On the other hand, the idea that ghostwise halfling only keep their distance is just untrue. Many of them do travel away from their clans, always bringing a piece of the clan with them in the form of a memento. It is considered taboo to lose one&rsquo;s clan memento, and some harsher clans do not accept those who return without one. In either case, however, they manage to intermingle with other halfling or humanoid cultures with little issue. However, due to their unique halfling physiques, their bloodline is rarely kept from the learned. Even so, it is often tradition to never reveal one&rsquo;s telepathy except with those that one considers true family.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Ghostwise Halfling Traits</p><ul><li><strong>Attribute Increase: </strong>Your Wisdom increases by 1.</li><li><strong>Clannish Memento:</strong> @Compendium[undertaking-chrystalis.abilities.LPXX1TL6LYIM7TD7]{Clannish Memento}</li><li><strong>Telepathy +30ft:</strong> @Compendium[undertaking-chrystalis.abilities.IKOZ3MFTL750KG1H]{Telepathy 30ft}</li><li><strong>Psionic Legacy: </strong>@Compendium[undertaking-chrystalis.abilities.USX3PSWTDRI4NUI5]{Psionic Legacy}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "MW9WXPTFN93TTU6L"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Powerful Build",
+    "type": "ability",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.<br />In addition, you are not slowed by weighty armor.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "W5ADU0NERR8NLCV3"
+}

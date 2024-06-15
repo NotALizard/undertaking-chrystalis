@@ -1,0 +1,25 @@
+{
+  "name": "Tendon Locking",
+  "type": "ability",
+  "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your talons are able to remain tightly closed without much effort, indeed requiring effort to release their grip instead.  You have advantage on checks to retain hold of something in your hands or feet.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "JDCR1ON5Y5CP5RET"
+}

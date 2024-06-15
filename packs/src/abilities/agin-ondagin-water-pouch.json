@@ -1,0 +1,25 @@
+{
+    "name": "Water Pouch",
+    "type": "ability",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>Your body is made with a special organ for storing up to 2 pints of liquid in, as if inside a waterskin. When swallowing a liquid, you can choose to refill this organ instead. All liquids stored in this pouch are naturally desalinated and lightly purified. <br />Stored liquid can be produced back into your mouth at will via tubes at the top of your mouth, and can be extruded back into a container again with just as much effort.<br />If in a rush, Ondagin are able to quickly guzzle 2 pints of liquid as a minor action to refill this pouch.<br />Attempting to ingest solids or viscous liquids into this pouch will require you make a Constitution (Save) check determined by your GM each minute to keep it down. Upon failure, you quickly and painfully throw them up, taking 2d8 chaos damage as it wreaks havoc to your insides.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "GQKPLLDIIW3LWOFM"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Poison Resilience",
+    "type": "ability",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>You are resistant to poison damage. In addition, you have advantage to saving throws against becoming @Compendium[undertaking.conditions.SRRBLPRSJWGUR551]{Poisoned}.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "2N86D7WDIEBEN3HI"
+}

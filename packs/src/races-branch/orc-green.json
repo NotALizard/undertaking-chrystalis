@@ -1,0 +1,23 @@
+{
+    "name": "Green Orc",
+    "type": "race",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Green orcs are the most common orc type, named for their vivid green skin, but also for their greenness in life and in combat. However, their arms are strong and unaffected by the wages of time.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Green Orc Traits</p><ul><li><strong>Attribute Increase: </strong>Your Strength increases by 1.</li><li><strong>Fury of the Strong:</strong> @Compendium[undertaking-chrystalis.abilities.WAFT7SX1L01TS3RS]{Fury of the Strong}</li><li><strong>Powerful Build:</strong> @Compendium[undertaking-chrystalis.abilities.W5ADU0NERR8NLCV3]{Powerful Build}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "P7S33W2XI98WTBAH"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Novvagin",
+  "type": "race",
+  "img": "icons/creatures/fish/fish-shark-swimming.webp",
+  "system": {
+    "description": {
+      "value": "<p>Novvagin are covered in dorsal fins and grow batches of hard scale-like carapaces built into primarily their legs and torso.  Their faces are fierce and piranha-like, instead showing an impressively large range of emotion in the eyes.  Their arms and legs are noticeably longer than their brethren, causing them to stand about an inch taller when relaxed.  <br>With numerous fins and carapaced armor, novvagin are often confused for their deep-dwelling brethren, the ondagin.  However, despite their external similarities, novvagin have a highly unique internal musculature.  While they appear thin, all their strength is actually in their core muscles, which can be flexed back like springs and locked into place, to be released at a moment's notice in explosive power or mobility.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Novvagin Traits</p><ul><li><b>Compatibility: </b>Aquatic</li><li><b>Attribute Increase: </b>Your Constitution increases by 1.</li><li><b>Proficiency: </b>You have proficiency in one of the following: Wisdom (Instinct), The Artisan Trade, The Fishing Trade</li><li><b>Increased Swim Speed: </b>Your swim speed increases by 10 feet.</li><li><b>Poisoning Resilience: </b>@Compendium[undertaking-chrystalis.abilities.GT4253JA7T24MTAJ]{Poisoning Resilience}</li><li><b>Dorsal Fin: </b>@Compendium[undertaking-chrystalis.abilities.834HEWETVAWXVXPU]{Dorsal Fin}</li><li><b>Fish Eye: </b>@Compendium[undertaking-chrystalis.abilities.2D2OF4S7GYE64A8H]{Fish Eye}</li><li><b>Springlock Musculature: </b>@Compendium[undertaking-chrystalis.abilities.3DGXUJA0V2YJRY8B]{Springlock Musculature}</li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "IENGPO152VX10YQR"
+}

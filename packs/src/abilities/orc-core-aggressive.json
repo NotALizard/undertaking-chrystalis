@@ -1,0 +1,25 @@
+{
+    "name": "Aggressive",
+    "type": "ability",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "7D1BX6907PR8SXM1"
+}

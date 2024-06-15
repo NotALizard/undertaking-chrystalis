@@ -1,0 +1,23 @@
+{
+    "name": "Ondagin",
+    "type": "race",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>Ondagin are covered in dorsal fins and grow batches of hard scale-like carapaces built into primarily their legs and torso. Their faces are fierce and piranha-like, instead showing an impressively large range of emotion in the eyes. <br /> With numerous fins and carapaced armor, ondagin are often confused for their spring-loaded brethren, the novvagin. However, despite their external similarities, ondagin are built primarily for aquatic life, their body pressurized for ocean floor, and water-starved on land. They&rsquo;re also born with an inactive second stomach, of sorts, that is used to store water or other liquids without absorbing it for usage later. When in a pinch, they can propel this water at targets like a cannon.<br /> Ondagin, perhaps due to their time in the dark quiet of the ocean, have also developed their minds in such a way that they grow into a natural capability in conjuration&mdash;the ability to make a mental image real.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Ondagin Traits</p><ul><li><strong>Attribute Increase: </strong>Your Intelligence increases by 1.</li><li><strong>Skill Proficiency: </strong>You have proficiency in the Dexterity (Stealth) skill.</li><li><strong>Extra Swim Speed:</strong> Your swim speed increases by 10 feet.</li><li><strong>Dorsal Fin:</strong> @Compendium[undertaking-chrystalis.abilities.MQF6HMUPU1D15Q6N]{Dorsal Fin}</li><li><strong>Dry Skin:</strong> @Compendium[undertaking-chrystalis.abilities.KI163OLRCFF8TE05]{Dry Skin}</li><li><strong>Deep Sea Acclimatized: </strong>@Compendium[undertaking-chrystalis.abilities.XMQL78V6FPL3AC0Y]{Deep Sea Acclimatized}</li><li><strong>Water Pouch:</strong> @Compendium[undertaking-chrystalis.abilities.GQKPLLDIIW3LWOFM]{Water Pouch}</li><li><strong>Water Cannon:</strong> @Compendium[undertaking-chrystalis.abilities.IN18SOBFF4I44W0L]{Water Cannon}</li><li><strong>Natural Conjurer:</strong> @Compendium[undertaking-chrystalis.abilities.G3QCDY9F91VURUIR]{Natural Conjurer}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "C81EOON63E687BFT"
+}

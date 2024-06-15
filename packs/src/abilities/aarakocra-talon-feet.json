@@ -1,0 +1,25 @@
+{
+  "name": "Taloned Feet",
+  "type": "ability",
+  "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+  "system": {
+    "description": {
+      "value": "<p>You are able to hold items or creatures in your feet talons with the same strength of that of your arms.  These feet are not dextrous enough to interact or attack with objects held by your feet.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "8U03HPHF94CYJIB9"
+}

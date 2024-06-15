@@ -1,0 +1,25 @@
+{
+    "name": "Stamp",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>When targeting a @Compendium[undertaking.conditions.RK3DF56CKMQUV6DM]{Prone} creature or a creature at least two sizes smaller than you, you can stomp with your hooves as a 1d12 natural weapon.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "63I8T7TJ8C81LTSD"
+}

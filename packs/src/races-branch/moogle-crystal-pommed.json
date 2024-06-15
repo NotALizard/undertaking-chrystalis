@@ -1,0 +1,23 @@
+{
+    "name": "Crystal-Pommed Moogle",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Crystal-Pommed Moogle Traits</p><ul><li><strong>Attribute Increase: </strong>Your Dexterity increases by 1.</li><li><strong>Fey Creature:</strong> @Compendium[undertaking-chrystalis.abilities.C9CUJHMADBRRQ7KM]{Fey Creature}</li><li><strong>Extra Language: </strong>You can speak, read, and write Farspeak.</li><li><strong>Reactive Stealth:</strong> @Compendium[undertaking-chrystalis.abilities.M1E1NFDFV8S282YG]{Reactive Stealth}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "SNWT11IZ5RDJWY48"
+}

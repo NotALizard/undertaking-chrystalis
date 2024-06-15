@@ -1,0 +1,25 @@
+{
+    "name": "Thick Shell",
+    "type": "ability",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>Your hardened shell is tough and thick. Due to its shape and size, you cannot wear armor over your shell. Instead, the shell gives you a natural Armor Class of 14 + your Dexterity Modifier.&nbsp;</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "3SFEJSNI19GQEGRC"
+}

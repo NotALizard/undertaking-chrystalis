@@ -1,0 +1,23 @@
+{
+    "name": "Saba Huagin",
+    "type": "race",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>Saba huagin, whose name literally means &ldquo;huagin of the sa and ba,&rdquo; are four-armed, fish-like huagin. Unlike their brethren, however, saba huagin can grow to be large creatures, as well as being terrifying four-armed multitaskers in combat. This size allows their four-armed styles to be even more terrifying, adding heavy-weapons into the weapons they&rsquo;re able to dual-wield.<br />Saba huagin, while not definitively by any means the strongest huagin, often gain high-ranking positions within huagin. While everything must be earned, a natural inclination toward expecting great things from a saba huagin tends to attract the best teachers to master them. Not many can handle a four-armed onslaught, and the pressure of multiple attack angles often gets to their opponents. However, what&rsquo;s not often said is how much the saba huagin have to train to become so capable. Saba huagin aren&rsquo;t born naturally capable of using all four arms without collision, and indeed their size often leads them to minimize their weapon variety in comparison to ba huagin. When one is fully trained though, a saba huagin can become &ldquo;sea devil&rdquo; incarnate.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Saba Huagin Traits</p><ul><li><strong>Attribute Increase: </strong>Your Strength increases by 1.</li><li><strong>Skill Proficiency: </strong>You have proficiency in the Intelligence (Arcana) skill.</li><li><strong>Large Size:</strong> Your size is Large, taking up a 10sqft radius instead of a Medium creature&rsquo;s 5sqft. Your height increases by about 2+1d4 feet, and your weight increases by 1d4-1, minimum of 1, times 50% of your core race&rsquo;s weight. For example, if you are a pure-breed centaur, your weight might be around 1050-3000lbs at 9-14ft tall.<br />As a large creature, you have the following traits: @Compendium[undertaking-chrystalis.abilities.BHTSTL43FMXQP3FU]{Large}</li><li><strong>Sunlight Sensitivity:</strong> @Compendium[undertaking-chrystalis.abilities.HJ09E247ZH0U7KGO]{Sunlight Sensitivity}</li><li><strong>Dry Skin:</strong> @Compendium[undertaking-chrystalis.abilities.80NX3U3ZDY2JPRBM]{Dry Skin}</li><li><strong>Extra Arms: </strong>@Compendium[undertaking-chrystalis.abilities.B4M43QHMXM3OID21]{Extra Arms}</li><li><strong>Four-Handed:</strong> @Compendium[undertaking-chrystalis.abilities.H2AEZDN8ZUD23OTR]{Four-Handed}</li><li><strong>Improved Dual-Wield:</strong> @Compendium[undertaking-chrystalis.abilities.48FWTQ9DD32YAFTT]{Improved Dual-Wield}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "EH7XKSC5KVWSWT6B"
+}

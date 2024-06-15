@@ -1,0 +1,25 @@
+{
+    "name": "Element Spin",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>You have charges equal to your proficiency bonus per rest. If you hit a target with an unarmed or natural weapon attack, you can spend element spin charges to make additional natural weapon attacks, one per charge, dealing one die level higher damage if below 1d8.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "43XDXL0669PGI5OZ"
+}

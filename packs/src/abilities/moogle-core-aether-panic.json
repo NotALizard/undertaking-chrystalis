@@ -1,0 +1,25 @@
+{
+    "name": "Aether Panic",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Releasing its naturally building aetheric reserves, moogles gain a burst of energy, giving them a surprising focus and strength in moments of desperation. <br />You can give yourself advantage while taking a desperate action once per long rest. </p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "30ITRW5C1Z09XOBT"
+}

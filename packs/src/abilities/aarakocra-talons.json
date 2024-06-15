@@ -1,0 +1,25 @@
+{
+  "name": "Talons",
+  "type": "ability",
+  "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+  "system": {
+    "description": {
+      "value": "<p>Aarakocra talons are piecing and sharp.  You can use your talons to deal 1d4 slashing damage for your unarmed attack.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "BPZAPCA1C8SN9VNC"
+}

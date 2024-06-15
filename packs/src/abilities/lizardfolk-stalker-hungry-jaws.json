@@ -1,0 +1,25 @@
+{
+    "name": "Hungry Jaws",
+    "type": "ability",
+    "img": "icons/creatures/reptiles/dragon-horned-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>As a minor action, when you land an attack with your Bite natural weapon, you can deal extra damage and gain temporary hit points equal to your Constitution modifier (minimum of 1).&nbsp;<br />This trait cannot be used again until you complete a rest.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "N5UD3Q1K2NVGXJFU"
+}

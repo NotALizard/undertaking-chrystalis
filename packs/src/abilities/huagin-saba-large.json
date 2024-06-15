@@ -1,0 +1,25 @@
+{
+    "name": "Large",
+    "type": "ability",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p><ul><li>You have disadvantage wielding light weapons.</li><li>You can wield non-heavy one-handed weapons as if they have the Light property.</li><li>It does not take you a minor action to switch to or from heavy weapons.</li><li>Your carrying capacity is doubled, and you can attempt to use the Shove, Grapple, or Trip action against a target that is two sizes larger than you <em>without</em> disadvantage.</li></ul></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "BHTSTL43FMXQP3FU"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Sled Fang",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>As an action, you gather winds around you and shoot forward 30 feet in a straight line, phasing through any creatures that would otherwise block you, and creating a small wind tunnel 15 feet past where you stopped. All creatures you phased through must succeed on a Dexterity (Save) check or take 1d6 slashing damage as a sharp wind cuts into them. This damage increases by 1d6 per growth level.&nbsp;<br />When trying to move through a solid object, construct, or creature of a larger size or wearing weighty armor, you slam into it instead, taking 2d6 bludgeoning damage from the collision and dealing the same to the collision point or target. <br />This trait can only be used once per rest.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "BOSWPBBWH372R4W9"
+}

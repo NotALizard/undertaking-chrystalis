@@ -1,0 +1,25 @@
+{
+    "name": "Mount",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>So long as you are not encumbered, you can carry one medium or smaller creature on your back without reducing your movement speed. <br />Creatures can spend 5 feet of movement to get onto your back, so long as you are willing. <br />Alternatively, you can spend a minor action to pull a willing medium or smaller creature on or off of your back.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "G9JSWFVTC0I74M5O"
+}

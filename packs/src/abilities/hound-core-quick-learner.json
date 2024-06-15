@@ -1,0 +1,25 @@
+{
+    "name": "Quick Learner",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>At the following levels, gain the following bonuses. You must have experienced the skill, trade, or language at least once elsewhere before learning it from this trait.<ul><li>At 3rd level, gain one skill or trade proficiency of your choice, or learn two languages of your choice.</li><li>At 5th level, gain two skill or trade proficiencies of your choice.</li></ul></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "WOWIUXXAR3PG56A5"
+}

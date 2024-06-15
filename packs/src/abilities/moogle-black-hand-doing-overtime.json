@@ -1,0 +1,25 @@
+{
+    "name": "Doing Overtime",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>During a long rest, you can spend one less than half of your maximum hit dice to work a trade twice over a long rest. For example, if a trade ability says that you can do something over the course of a long rest, you can do that twice, or work on two different trades, over a long rest.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "KZ6ERBJO995B9RJV"
+}

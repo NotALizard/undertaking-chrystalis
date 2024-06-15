@@ -1,0 +1,23 @@
+{
+  "name": "Core Aarakocra",
+  "type": "race",
+  "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+  "system": {
+    "description": {
+      "value": "",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Core Aarakocra Traits</p><ul><li><b>Compatibility: </b>Avian</li><li><b>Attribute Increase: </b>Your Dexterity increases by 1.</li><li><b>Lifespan: </b>Aarakocra generally live to their early 30s, and reach maturity at age 3.</li><li><b>Size: </b>Medium; Aarakocra tend to have fit bodies with large wings attached to their back.  They tend to stand around 5 feet tall with weights no more than 100lbs.</li><li><b>Speed: </b>Your base ground speed is 25 feet.</li><li><b>Flight:</b> Aarakocra have large avian wings on their back.  You have a flying speed of 25 feet.<br>To use this speed, you cannot be wearing medium or heavy armor, and you must have 5ft of space on each side of you in order to take off.</b></li><li><b>Taloned Feet: </b>@Compendium[undertaking-chrystalis.abilities.8U03HPHF94CYJIB9]{Taloned Feet}</li><li><b>High Altitude Adaption: </b>@Compendium[undertaking-chrystalis.abilities.79LYQZRBS8RP54OC]{High Altitude Adaption}</li><li><b>Languages: </b>You can speak, read, and write Common and Ave.</li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "TH47YEQIYW9M1ZWD"
+}

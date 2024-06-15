@@ -1,0 +1,25 @@
+{
+    "name": "Mood Pom",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>While a moogle&rsquo;s pom comes in a variety of colors, its fur also slightly changes color based on your emotions. The difference is subtle, but introduces shades of red when angry, blue when sad, yellow when happy, and so on, with the vividness of the color changing based on the intensity of the emotion. While not always picked up by everyone, this tends to undercut moogles trying to hide their emotions. You have disadvantage to Presence (Deception) checks to hide your emotions while seen.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "BPUPRFQU4412XYDG"
+}

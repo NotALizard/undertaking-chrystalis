@@ -1,0 +1,23 @@
+{
+    "name": "Pale Orc",
+    "type": "race",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Pale orcs are named because of their experience in life. Not only has their greenness in life faded as they&rsquo;ve gained more experience, but this is true too of their skin. As they do combat, gaining scars from victories and defeats, their body appears less green as scar tissue comes back more pale than green. For orcs less combat-centric, this also affects them in that the sun doesn&rsquo;t tan orcs, it bleaches them. In either case, to call an orc pale is to call them wisened and capable. A capability that they use to survive strikes that would kill another, or kill with strikes others can&rsquo;t pull off.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Pale Orc Traits</p><ul><li><strong>Attribute Increase: </strong>Your Strength increases by 1.</li><li><strong>Relentless Endurance:</strong> @Compendium[undertaking-chrystalis.abilities.KZ0MSD3E6LQQ0RVW]{Relentless Endurance}</li><li><strong>Savage Attacks: </strong>@Compendium[undertaking-chrystalis.abilities.0OYHYJ4246738YA8]{Savage Attacks}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "ZDK6JEU9MLFOFHEF"
+}

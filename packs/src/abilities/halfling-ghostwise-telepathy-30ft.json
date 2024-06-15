@@ -1,0 +1,25 @@
+{
+    "name": "Telepathy 30ft",
+    "type": "ability",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>You may use telepathy to speak with any creature up to 30ft from you so long as you both share a language. You may only use this with one creature at a time.&nbsp;<ul><li>If you already have Telepathy from your core race, extend the range of that telepathy by 30ft.&nbsp;</li></ul></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "IKOZ3MFTL750KG1H"
+}

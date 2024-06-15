@@ -1,0 +1,23 @@
+{
+    "name": "Ba Huagin",
+    "type": "race",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>Ba huagin are diminutive, four-armed huagin with more vivid colorations, larger, more emotive eyes, and whiskered tendrils on a lizard-shaped head.</p><p>There are many rumors as to why ba huagin are so diminutive and almost draconic compared to their kind. What was once thought to be the result of a literal marriage of a huagin and a kobold, the belief of the huagin themselves is that ba huagin are descendents of huagin who worshiped sea dragons. The influence these dragons had upon them over centuries twisting them into a more familiar and fitting shape for the dragon, before their inevitable rebellion, splintering, or betrayal that made them their own masters. This tale has been passed down for generations, causing the ba huagin much frustration. Ba huagin are often taunted and looked down upon for their ancestor&rsquo;s decisions, only causing ba huagin to have to work that much harder for approval. Despite this, there is still debate about their origins, with some ba huagin identifying as equally kobold as they are huagin. In addition, there is some belief that the ba huagin existed before huagin, and that huagin bred the desirable four-armed trait into their kind while breeding out undesirable traits like their small bodies, resulting in the saba huagin, quite literally meaning huagin of the sa and ba. Though, of course, no huagin without a death wish would dare imply so.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Ba Huagin Traits</p><ul><li><strong>Attribute Increase: </strong>Your Dexterity increases by 1.</li><li><strong>Skill Proficiency: </strong>You have proficiency in the Intelligence (Arcana) skill.</li><li><strong>Small Size:</strong> Your size is Small. Your height decreases by about 1d4 feet, and your weight decreases by half of your core race&rsquo;s weight. As a small creature, you have the following traits: @Compendium[undertaking-chrystalis.abilities.HOY8TA85GA30PX08]{Small}</li><li><strong>Increased Swim Speed:</strong> Your swim speed is increased by 15 feet.</li><li><strong>Sunlight Sensitivity:</strong> @Compendium[undertaking-chrystalis.abilities.V2W4F31LGDSBI7GX]{Sunlight Sensitivity}</li><li><strong>Dry Skin:</strong> @Compendium[undertaking-chrystalis.abilities.A6BVF0VLA6OVAN1Z]{Dry Skin}</li><li><strong>Extra Arms: </strong>@Compendium[undertaking-chrystalis.abilities.LRIBQB3QV6G9L1RQ]{Extra Arms}</li><li><strong>Four-Handed:</strong> @Compendium[undertaking-chrystalis.abilities.1R6M1VN8JAARRCTS]{Four-Handed}</li><li><strong>Tri-Wield:</strong> @Compendium[undertaking-chrystalis.abilities.ITZEOFLYRTTW98MZ]{Tri-Wield}</li><li><strong><em>*Alternate Compatibility:</em></strong> You can choose to instead have the Reptilian compatibility for the sake of mix-racing, gaining the following traits.<ul><li><strong>Reduced Swim Speed:</strong> Your swim speed is reduced by 15 feet.</li></ul></li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "U9C2QV4XXGGKBNYI"
+}

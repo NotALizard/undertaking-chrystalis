@@ -1,0 +1,25 @@
+{
+    "name": "Blades Command",
+    "type": "ability",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Once per long rest, as an action, two allies within 120 ft of you that can hear you may use their reaction to make an attack of opportunity against a nearby target. Attacks of opportunity made this way cannot trigger Extra Attack or other follow-up skills.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "7ZE7TGCRGVSO7G7H"
+}

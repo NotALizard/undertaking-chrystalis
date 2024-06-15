@@ -1,0 +1,25 @@
+{
+    "name": "Animist",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>You can cast the @Compendium[undertaking-homebrew.spells-level-1.TT94JMKOUYP2WM96]{Cojoin Familiar} spell once per long rest.&nbsp;<br />You can use your Intelligence, Wisdom, or Presence as your spellcasting attribute when casting spells this way.<br />If you are a spellcaster, you can also add these spells to your spell list. They are always prepared and do not count against the spells you can prepare each day.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "OM8FHSWKRYQU26K4"
+}

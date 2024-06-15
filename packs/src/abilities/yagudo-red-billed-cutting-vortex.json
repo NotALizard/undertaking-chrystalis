@@ -1,0 +1,25 @@
+{
+    "name": "Cutting Vortex",
+    "type": "ability",
+    "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+    "system": {
+        "description": {
+            "value": "<p>Once you reach 5th level, you gain the following racial trait.&nbsp;<br />With a harsh spin of your wings and a release of your smaller, looser feathers, you can create a 5ft twister adjacent to you. The vortex violently spins with sharpened feathers inside for 1 minute or until a large enough gust of wind can disperse it. <br />Any creature who moves into the vortex&rsquo;s space on their turn, or else starts their turn inside of it, takes 5d4 slashing damage.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "RPGQ60LMXPS8ECQA"
+}

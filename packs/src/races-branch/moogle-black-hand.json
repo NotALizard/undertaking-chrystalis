@@ -1,0 +1,23 @@
+{
+    "name": "Black-Hand Moogle",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Black-Hand Moogle Traits</p><ul><li><strong>Attribute Increase: </strong>Your Intelligence increases by 1.</li><li><strong>Trade Proficiency: </strong>You have proficiency in a trade proficiency of your choice.</li><li><strong>Doing Overtime: </strong>@Compendium[undertaking-chrystalis.abilities.KZ6ERBJO995B9RJV]{Doing Overtime}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "K047OX52E5DJEOYH"
+}

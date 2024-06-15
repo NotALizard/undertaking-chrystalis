@@ -1,0 +1,25 @@
+{
+    "name": "Mognet",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>You have a low-level empathic field radiating from your poms that only other moogle poms can pick up on. As a result, you have advantage on Wisdom (Insight) checks made against other moogles.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "HUEAHUTF1LPGMBAZ"
+}

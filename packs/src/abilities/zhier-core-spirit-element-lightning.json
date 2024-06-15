@@ -1,0 +1,25 @@
+{
+    "name": "Spirit Element (Lightning)",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p><ul><li><strong>Look:</strong> Your fur falls into blue shades.</li><li><strong>Lightning Resistance:</strong> You are resistant to lightning damage.</li><li><strong>Spirit Casting:</strong> You can cast the @Compendium[undertaking.spells-cantrips.0JWJ9J7A2AMSNDK0]{Jolt} cantrip at will. At 3rd level, you can cast the @Compendium[undertaking.spells-level-2.M9E56UNAIUGH9J1U]{Paralyze Person}spell once per long rest, with targets making a Constitution (Save) check to resist the spell when cast in this way. <br />You can use your Intelligence, Wisdom, or Presence as your spellcasting attribute when casting spells this way.<br />If you are a spellcaster, you can also add these spells to your spell list. They are always prepared and do not count against the spells you can prepare each day.</li><li><strong>Element Flail:</strong> Of all parts of a Zhier, the tail is the point most connected to its spirit element. You can swing your tail like a natural weapon flail. This weapon has both the Light and Finesse properties, and deals 1d4 lightning damage as it jolts the point of collision.</li></ul></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "L258ER5D1IUCJX0D"
+}

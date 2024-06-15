@@ -1,0 +1,23 @@
+{
+    "name": "Shadow Goblin",
+    "type": "race",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Shadow goblins, often moved into crowded or urban environments, are named for their likeness to stay out of the spotlight. It&rsquo;s a defensive mechanism from the public, but it&rsquo;s one they have gotten extremely good at. To a shadow goblin, passing someone in a dark alley should only be an experience felt by the shadow goblin, and not noticed by the other creature.</p><p>Shadow goblins tend to have black-tinted eyeballs, causing their eyes to stand out. Also, wider ears, much more ordered teeth, and a body structure closer to that of a short orc or humanoid aside from their longer face and ears.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Shadow Goblin Traits</p><ul><li><strong>Attribute Increase: </strong>Your Dexterity increases by 1.</li><li><strong>Nimble Escape:</strong> @Compendium[undertaking-chrystalis.abilities.3Q5P97G7CKEX2E8R]{Nimble Escape}</li><li><strong>Silent Stalker:</strong> @Compendium[undertaking-chrystalis.abilities.ZNQY8P35YNQHTLUJ]{Silent Stalker}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "UEM707MQ5Y8DI12T"
+}

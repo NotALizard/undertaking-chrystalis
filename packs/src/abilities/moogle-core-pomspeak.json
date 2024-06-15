@@ -1,0 +1,25 @@
+{
+    "name": "Pomspeak",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Moogle poms also have a low-level telepathic field, thought to be a remnant of a time when moogles had more telepathic capabilities. You can communicate telepathically with that creature as long as you both share a known language.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "AE0KUM7BKCOU8WME"
+}

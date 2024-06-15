@@ -1,0 +1,25 @@
+{
+    "name": "Loyal Pup",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>While HOUND adventurers tend to be more independent, your kind was bred and programmed for subservience. In particular, to a singular &ldquo;alpha&rdquo; that you feel an urge to obey, regardless of your feelings on them. <br />As part of character creation, pick a creature to be your alpha. You have disadvantage on all checks taken against or to resist your alpha, and all of their checks and attacks against you have advantage. You also have advantage on any Presence (Save) check that would turn you against your alpha. <br />Should your alpha die, you will have no alpha. So long as you have no living alpha, you have 1 level of @Compendium[undertaking.conditions.ERBR3AG01H4N1L91]{Exhaustion}.<br />Your alpha can give you commands that you feel compelled to consider, but do not need to follow. As a minor action, your alpha can give one of the following commands. Following any of these commands grants you 1 temporary hit point as your biological programming rewards you for obedience:<ul><li><strong>\"Attack\":</strong> Use your reaction to make an opportunity attack against a creature adjacent to you.</li><li>\"<strong>Come\":</strong> Use your reaction to move up to 30ft toward your alpha.</li><li><strong>\"Sit\":</strong> Use your reaction and all remaining movement to fall prone.&nbsp;</li></ul></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "HGMZF7V1MXRS1QA1"
+}

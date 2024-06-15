@@ -1,0 +1,23 @@
+{
+    "name": "Lightfoot Halfling",
+    "type": "race",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Keeping heights close to 3 feet on average, lightfoot halflings are known for slightly larger and stronger legs. Their hair and eyes vary, but are most commonly shades of brown with skin tones ranging greatly but on the softer side their pigment.</p><p>Also known as Hairfeet or Tallfellows in some settings, Lightfoot Halfling are often characterized by the unfamiliar for their wanderlust. While many halflings are happy with hearth and home, lightfoots almost seem to produce more energy than their body is able to contain. Some even find movement or activity more calming than rest. This can often lead to the wanderlust mentioned before&mdash;the origin of the stereotype&mdash;but this can just as often feed into more active hobbies, lifestyles, or personalities.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Lightfoot Halfling Traits</p><ul><li><strong>Attribute Increase: </strong>Your Presence increases by 1.</li><li><strong>Lightfooted:</strong> Your base ground speed is 5 feet faster.</li><li><strong>Trade Proficiency:</strong> You are proficient in one Trade your choice.</li><li><strong>Deep Sleeper:</strong> @Compendium[undertaking-chrystalis.abilities.230VDLURAWZR2YT2]{Deep Sleeper}</li><li><strong>Naturally Stealthy: </strong>@Compendium[undertaking-chrystalis.abilities.QZKP40R1JZAZ7ZEW]{Naturally Stealthy}</li><li><strong>Underfoot: </strong>@Compendium[undertaking-chrystalis.abilities.SO060NGRN77IH5CV]{Underfoot}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "BIPUTG07849442Y8"
+}

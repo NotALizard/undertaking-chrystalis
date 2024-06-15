@@ -1,0 +1,25 @@
+{
+    "name": "Detect Blood",
+    "type": "ability",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>As a minor action, you can immediately detect spilled blood within 100ft of you based on smell, and determine how much of it there is and if it's more or less than a day old.<br />This trait can be used an amount of times equal to your Proficiency Bonus per long rest.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "XQPVVR1T3SAKQ58N"
+}

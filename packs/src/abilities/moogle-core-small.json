@@ -1,0 +1,25 @@
+{
+    "name": "Small",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p><ul><li>You have disadvantage wielding heavy weapons.</li><li>You can move through larger creatures without being slowed down.</li><li>Your carrying capacity is reduced by a third.&nbsp;</li></ul></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "LMD5GMTR7NHVUKEC"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Disloyal Pup",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Over a long rest, you can undergo a ritual to reprogram yourself to a new alpha who is taking the long rest with you. You must succeed on a Presence (Save) check with your current alpha's Presence Attribute as the DC. At the end of the rest, should you succeed, you gain 1 level of @Compendium[undertaking.conditions.ERBR3AG01H4N1L91]{Exhaustion} and your alpha is changed.&nbsp;<br />If your current alpha does not approve of this change, the DC is increased by +5, and you gain 2 levels of @Compendium[undertaking.conditions.ERBR3AG01H4N1L91]{Exhaustion} instead.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "BODW0N1JC7P9ZWBV"
+}

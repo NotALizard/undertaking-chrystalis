@@ -1,0 +1,25 @@
+{
+    "name": "Brave",
+    "type": "ability",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>You have advantage on save checks against being @Compendium[undertaking.conditions.UK95BQ45TGSD5Q3V]{Frightened}.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "NMT0ZOS6X5Q2VBCR"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Lunar Zhier",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Born with a connection to the moon, lunar zhier tend to have smoother, flatter, and more reflective fur with less of a mane. Their connection to the moon manifests in their mind, with a feeling of confidence and capability in the moonlight. As they grow, this connection grows, giving them access to powers and knowledge of those older than them. Lunar zhier are known for having a strangely effective understanding of their place in the universe that tends to take other species and zhier much longer to grasp.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Lunar Zhier Traits</p><ul><li><strong>Attribute Increase: </strong>Your Wisdom increases by 1.</li><li><strong>Lunar Affinity: </strong>@Compendium[undertaking-chrystalis.abilities.DULBTVY9GRDCVCJE]{Lunar Affinity}</li><li><strong>Lunar High:</strong> @Compendium[undertaking-chrystalis.abilities.87LJ58ISUE6D0TSH]{Lunar High}</li><li><strong>Cosmic Memory:</strong> @Compendium[undertaking-chrystalis.abilities.Q615HYZWA4A1VBBU]{Cosmic Memory}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "MACXEHCQZ4GMWNQ4"
+}

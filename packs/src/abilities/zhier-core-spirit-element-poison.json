@@ -1,0 +1,25 @@
+{
+    "name": "Spirit Element (Poison)",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p><ul><li><strong>Look:</strong> Your fur falls into green shades.</li><li><strong>Poison Resistance:</strong> You are resistant to poison damage.</li><li><strong>Spirit Casting:</strong> You can cast the @Compendium[undertaking.spells-cantrips.MB7NWQ5H11LSIVV7]{Caustic Needle} cantrip at will, dealing poison damage instead of acid when cast in this way. At 3rd level, you can cast the <em>Ophidian Kiss </em>spell once per long rest. <br />You can use your Intelligence, Wisdom, or Presence as your spellcasting attribute when casting spells this way.<br />If you are a spellcaster, you can also add these spells to your spell list. They are always prepared and do not count against the spells you can prepare each day.</li><li><strong>Element Stinger:</strong> Of all parts of a Zhier, the tail is the point most connected to its spirit element. You can strike with your stinger-like tail as a natural weapon. This weapon has both the Light and Finesse properties, and deals 1d4 poison damage as it injects a minor poison.</li></ul></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "4L0P3ENXPBGCV0FK"
+}

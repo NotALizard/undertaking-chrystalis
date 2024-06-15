@@ -1,0 +1,25 @@
+{
+    "name": "Natural Conjurer",
+    "type": "ability",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>At 3rd level, you can cast the @Compendium[undertaking.spells-level-2.81P4RRS5TYCIYIDI]{Verminize} spell, but only to turn a creature into a toad, once per long rest. <br />You can use your Intelligence, Wisdom, or Presence as your spellcasting attribute when casting spells this way.<br />If you are a spellcaster, you can also add these spells to your spell list. They are always prepared and do not count against the spells you can prepare each day.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "UTARGEU10YNEKEFB"
+}

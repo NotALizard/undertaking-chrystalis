@@ -1,0 +1,25 @@
+{
+    "name": "Long Legs",
+    "type": "ability",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>With long legs built for jumping, add +10ft to your vertical and horizontal jump distance. This distance is not added while wearing heavy armor.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "5R1N9M1CXRJBID3H"
+}

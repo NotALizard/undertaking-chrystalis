@@ -1,0 +1,23 @@
+{
+    "name": "Steppe Centaur",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Steppe centaurs is often a catch-all term for centaurs of the country, but its more accurately a set of centaur with larger, stronger hooves and legs, and a thicker coat that protects them from both the heat and cold. Natural advantages against the realms they live in.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Steppe Centaur Traits</p><ul><li><strong>Compatibility: </strong>Bestial (or Hominid with <em>Alternate Compatibility</em>)</li><li><strong>Attribute Increase: </strong>Your Constitution increases by 1.</li><li><strong>Heavy Hooves:</strong> @Compendium[undertaking-chrystalis.abilities.93N5CX8O26LQ1WK3]{Heavy Hooves}</li><li><strong>Stand Your Ground:</strong> @Compendium[undertaking-chrystalis.abilities.C6IUGKP3IZX9GPYA]{Stand Your Ground}</li><li><strong>Work Horse:</strong> @Compendium[undertaking-chrystalis.abilities.Q493IKT61199FS3N]{Work Horse}</li><li><strong>Weather Resilient:</strong> @Compendium[undertaking-chrystalis.abilities.1A3BVLJS3HRVOGLV]{Weather Resilient}</li><li><strong><em>*Alternate Compatibility:</em></strong> You can choose to instead have the Hominid compatibility for the sake of mix-racing, gaining the following traits.<ul><li><strong>Heavier Hooves: </strong>The natural weapon given by the &ldquo;Heavy Hooves&rdquo; trait from this branch race deals 1d10 bludgeoning damage instead.</li></ul></li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "N8JYNILGKXX7HY7B"
+}

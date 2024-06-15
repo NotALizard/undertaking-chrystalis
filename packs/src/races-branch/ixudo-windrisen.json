@@ -1,0 +1,23 @@
+{
+    "name": "Windrisen Ixudo",
+    "type": "race",
+    "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+    "system": {
+        "description": {
+            "value": "<p>With more desaturated and tame colorations, windrisen ixudo are the bottom of ixudo society. They often receive the roles of foot-soldiers, guards, and hunters.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Windrisen Ixudo Traits</p><ul><li><strong>Compatibility: </strong>Avian</li><li><strong>Attribute Increase: </strong>Your Strength increases by 1.</li><li><strong>Weapon Proficiency: </strong>You have proficiency in two martial weapons of your choice.</li><li><strong>Toothed Beak:</strong> @Compendium[undertaking-chrystalis.abilities.7RYXNBTK2K3BISJH]{Toothed Beak}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "PNG8QIB0GIW93LIY"
+}

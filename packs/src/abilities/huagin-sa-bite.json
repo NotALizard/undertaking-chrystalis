@@ -1,0 +1,25 @@
+{
+    "name": "Bite",
+    "type": "ability",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>You have a sharp set of teeth and a powerful jaw behind them. These can be used as a natural weapon that deals 1d6 piercing damage.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "2CBDO4X2RCCI1I7T"
+}

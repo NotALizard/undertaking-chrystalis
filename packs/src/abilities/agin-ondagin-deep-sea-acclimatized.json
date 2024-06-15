@@ -1,0 +1,25 @@
+{
+    "name": "Deep Sea Acclimatized",
+    "type": "ability",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>Your form is tightly pressurized, allowing you to be able to ignore penalties from highly pressured and deep sea environments.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "XMQL78V6FPL3AC0Y"
+}

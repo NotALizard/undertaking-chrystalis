@@ -1,0 +1,23 @@
+{
+    "name": "Black-Foot Moogle",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Black-Foot Moogle Traits</p><ul><li><strong>Attribute Increase: </strong>Your Constitution increases by 1.</li><li><strong>Tall Ears, Small Hands: </strong>@Compendium[undertaking-chrystalis.abilities.FYW3I955BVGG9ZXH]{Tall Ears Small Hands}</li><li><strong>Brave: </strong>@Compendium[undertaking-chrystalis.abilities.RFVN73Z4AIYZRMS5]{Brave}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "HB8KIPLNI1XY7B2Z"
+}

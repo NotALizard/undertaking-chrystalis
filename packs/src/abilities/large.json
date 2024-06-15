@@ -1,0 +1,25 @@
+{
+  "name": "Large",
+  "type": "ability",
+  "img": "icons/magic/control/buff-strength-muscle-damage-red.webp",
+  "system": {
+    "description": {
+      "value": "<p><ul><li>Your size is Large, taking up a 10 sqft radius instead of a Medium creature's 5 sqft.</li><li>You have disadvantage wielding light weapons.</li><li>You can use weapons that lack the Heavy and Two-Handed traits for two-weapon fighting, even if they are not light.  See \"Off-Hand Attack\" in the \"Attack\" section for details.</li><li>It does not take you a minor action to switch to or from heavy weapons.</li><li>Your carrying capacity is doubled, and you can attempt to use the Shove, Grapple, or Trip action against a target that is two sizes larger than you without disadvantage.</li></ul></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "35BSTZ6KYM7L96H3"
+}

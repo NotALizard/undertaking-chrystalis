@@ -1,0 +1,25 @@
+{
+    "name": "Sap",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Once per turn, before rolling damage for your natural weapon, you can choose to deal 1 damage to the target's Strength attribute instead. Strength cannot be reduced on a creature below 5 with this method. Lost Strength is restored after a short rest.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "OD7VHAOMYSHI6A0K"
+}

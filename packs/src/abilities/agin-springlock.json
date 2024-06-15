@@ -1,0 +1,79 @@
+{
+  "name": "Springlock Musculature",
+  "type": "ability",
+  "img": "icons/creatures/fish/fish-shark-swimming.webp",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can springlock your muscles into place, building up a tension that you can release at will to do one of the following \"Spring\" abilities.  After releasing a springlock, you cannot springlock your muscles again until the end of your next turn.<br><b>Springlock Release: </b>You can release your springlock to do the following:<ul><li>Spring Jab: Before rolling to hit with a melee piercing, unarmed, or thrown weapon, release your springlock to add your Strength or Constitution modifier to the final damage dealt.</li><li>Spring Launch: On your turn or while taking a desperate action, release your springlock to launch yourself 10ft in any direction, even into the air.  <br>This trait can be used in water, and to launch out of water. </li><li>Spring Shove: When attempting to shove a creature or object, before you roll, you can release your springlock to add your Strength or Constitution modifier to the final roll.</li></ul></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "attribute": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "attribute": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "race",
+      "subtype": "core"
+    },
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "3DGXUJA0V2YJRY8B"
+}

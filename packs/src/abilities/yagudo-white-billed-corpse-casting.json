@@ -1,0 +1,25 @@
+{
+    "name": "Corpse Casting",
+    "type": "ability",
+    "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+    "system": {
+        "description": {
+            "value": "<p>You can cast the @Compendium[undertaking.spells-cantrips.44UXH5FVH6EK2UI9]{Disuse Atrophy} cantrip at will. At 3rd level, you can cast the @Compendium[undertaking.spells-level-1.V4RW5MFB4N243CDA]{Open Wounds} spell once per long rest. At 5th level, you can cast the @Compendium[undertaking.spells-level-2.DS8BAOY19DVGW5SH]{Stupefy} spell once per long rest.&nbsp;<br />You can use your Intelligence, Wisdom, or Presence as your spellcasting attribute when casting spells this way.<br />If you are a spellcaster, you can also add these spells to your spell list. They are always prepared and do not count against the spells you can prepare each day.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "NB5OV84BECPGL6NS"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Looped Locomotion",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>While moving, you can spend 5 feet of movement rolling into a loop so that you begin rolling on your armored spine. While moving in this wheel shape, you gain an additional 5ft of movement, even on rough terrain.<br />While in this form, if you roll at least 15 feet and then ram into a creature, they must succeed on a Dexterity (Save) check or take 1d6 bludgeoning damage per 15 feet traveled before collision.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "L0UH4P8W9JXB2HPS"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Strongheart",
+    "type": "ability",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Once per long rest, force an enemy to re-roll its highest damage die rolled against you. You get additional usage of this per long rest at each growth level.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "LBDZ48JLJVGKE7YO"
+}

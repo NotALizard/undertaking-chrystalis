@@ -1,0 +1,79 @@
+{
+  "name": "Heart of the Sea",
+  "type": "ability",
+  "img": "icons/creatures/fish/fish-shark-swimming.webp",
+  "system": {
+    "description": {
+      "value": "<p>You have a large, magical, hardened orb in your chest that protects your heart and empowers you with magic.  <br>This heart can be used as a spellcasting focus and you can tap into it up to twice to use the following traits.  <br>You regain one usage of Heart of the Sea at the end of a short rest, and two usages at the end of a long rest.<ul><li><b>Energy Reserves: </b>As a minor action, regain 1 mana.</li><li><b>Cardioprotection: </b>As a minor action, gain 5 temporary hit points.</li><li><b>Cardiac Conduction: </b>As a reaction, when you need to make a Strength check, you can add +1 to your roll if called out before you are told the result or DC of the check.  </li><li><b>Speak with Marine Animals: </b>As a minor action, you and marine beasts can speak with and understand each other for 1 hour.  <br>Their thoughts are often simple and straightforward and are not always helpful, but words often travel fast underwater.</li><li><b>Summon Sharks: </b>At 3rd level, you can cast the Phantom Steed (D&D 5th Edition) spell once per long rest to summon a Phantom Shark, listed below.  <br>You can use your Intelligence, Wisdom, or Presence as your spellcasting attribute when casting spells this way.<br>If you are a spellcaster, you can also add this version of this spell to your spell list.  It is always prepared and does not count against the spells you can prepare each day.  </li><li><b>Bubble Bomb: </b>At 5th level, you can cast the @Compendium[undertaking.spells-level-3.7UWC00HNXCOL4GFI]{Fireball} spell once per long rest, even underwater.  Wet creatures do not take reduced damage from fire damage dealt by this spell.<br>You can use your Intelligence, Wisdom, or Presence as your spellcasting attribute when casting spells this way.<br>If you are a spellcaster, you can also add this underwater version of this spell to your spell list.  It is always prepared and does not count against the spells you can prepare each day.</li></ul></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "attribute": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "attribute": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "race",
+      "subtype": "core"
+    },
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "J0TWM6BYE16KFRJ7"
+}

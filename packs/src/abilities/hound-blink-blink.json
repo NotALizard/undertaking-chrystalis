@@ -1,0 +1,25 @@
+{
+    "name": "Blink",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>As a minor action, you can teleport yourself and any objects you can hold or are wearing to an unoccupied space you can see up to 40 feet away. If you are being ridden or Grappled, you can choose to bring that creature along with you.<br />You can only use this trait once per turn, and only up to your proficiency bonus per long rest.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "1Z922M9WXLL4STOE"
+}

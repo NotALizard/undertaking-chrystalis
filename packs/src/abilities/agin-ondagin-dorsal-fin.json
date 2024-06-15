@@ -1,0 +1,25 @@
+{
+    "name": "Dorsal Fin",
+    "type": "ability",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>You have a large dorsal fin on your back. It can be folded under armor or clothing, but when unrestrained it can be used to help you swim faster. <br />Without armor or restrictive clothing on, your swim speed increases by 20 feet.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "MQF6HMUPU1D15Q6N"
+}

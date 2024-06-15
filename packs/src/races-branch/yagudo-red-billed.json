@@ -1,0 +1,23 @@
+{
+    "name": "Red-Billed Yagudo",
+    "type": "race",
+    "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+    "system": {
+        "description": {
+            "value": "<p>Red-billed yagudo, beyond just their red beaks, have particularly rigid and sharp feathers. They also have some of the loosest and fastest-growing feathers of any yagudo, molting more often as a result. Using this to their advantage, cornered red-bills pluck their own feathers for use as weaponized darts, or kick up storms of molted feathers to slice into attackers. Feather plucking is a fairly painful proposition, but worth it in a pinch.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Red-Billed Yagudo Traits</p><ul><li><strong>Attribute Increase: </strong>Your Constitution increases by 1.</li><li><strong>Weapon Proficiency:</strong> You have proficiency in Darts and Throwing Stars.</li><li><strong>Feather Dart:</strong> @Compendium[undertaking-chrystalis.abilities.AZFMQ7BHH1FI8KQ1]{Feather Dart}</li><li><strong>Cutting Vortex:</strong> @Compendium[undertaking-chrystalis.abilities.RPGQ60LMXPS8ECQA]{Cutting Vortex}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "1IKB7H9JLJPTBKJX"
+}

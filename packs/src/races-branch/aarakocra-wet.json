@@ -1,0 +1,23 @@
+{
+  "name": "Wet-Winged Aarakocra",
+  "type": "race",
+  "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+  "system": {
+    "description": {
+      "value": "<p>Wet-winged aarakocra are naturally built for life near or on the sea.  They prepare their feathers through preening to make them water proof, allowing them to hunt from diving into the sea, as well as from the sky.<br>Unlike other aarakocra, wet-wings tend to have longer beaks and lighter feathers, not unlike gulls.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Wet-Winged Aarakocra Traits</p><ul><li><strong>Compatibility: </strong>Avian</li><li><b>Attribute Increase: </b>Your Wisdom increases by 1.</li><li><strong>Trade Proficiency: </strong>You have proficiency in the Fishing Trade.</li><li><strong>Obsessive Preener: </strong>@Compendium[undertaking-chrystalis.abilities.LMHJPPL5SVX5BROE]{Obsessive Preener}</li><li><strong>Desalination Filter: </strong>@Compendium[undertaking-chrystalis.abilities.229NEQ0M700XBPRV]{Desalination Filter}</li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "NCHW3EU0P0636YIZ"
+}

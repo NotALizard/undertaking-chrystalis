@@ -1,0 +1,25 @@
+{
+    "name": "Joust",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>When you make an attack at a target after moving at least 30 feet straight towards it, the attack has a +2 to hit and deals an additional 1d10 force damage.&nbsp;</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "3XRM18PRXTZGV9HF"
+}

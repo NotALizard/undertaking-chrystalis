@@ -1,0 +1,23 @@
+{
+    "name": "Core Moogle",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "core",
+        "classDetails": "<p>Core Moogle Traits</p><ul><li><strong>Attribute Increase: </strong>Your Wisdom increases by 2.</li><li><strong>Lifespan:</strong> Despite their fragile-looking builds, moogles live surprisingly long lives. Moogles tend to live to about 150, and are considered full adults around 25-30.</li><li><strong>Size: </strong>Small; Moogles have a short stature. Their head to foot height is usually around 3-4 feet tall. If you count their ears, as moogles tend to, they stand about a foot taller than that. Moogles are surprisingly light, weighing around 30-60 lbs.<br />As a small creature, you have the following traits:@Compendium[undertaking-chrystalis.abilities.LMD5GMTR7NHVUKEC]{Small}</li><li><strong>Speed: </strong>Your base ground speed is 30 feet.</li><li><strong>Languages: </strong>You can speak, read, and write Common.</li><li><strong>Moogle Pom:</strong> @Compendium[undertaking-chrystalis.abilities.B9OHNEJE9TV56PNN]{Moogle Pom}</li><li><strong>Mood Pom:</strong> @Compendium[undertaking-chrystalis.abilities.BPUPRFQU4412XYDG]{Mood Pom}</li><li><strong>Aether Acclimatized:</strong> @Compendium[undertaking-chrystalis.abilities.IZM8FZJEUT1NGAC6]{Aether Acclimatized}</li><li><strong>Mognet:</strong> @Compendium[undertaking-chrystalis.abilities.HUEAHUTF1LPGMBAZ]{Mognet}</li><li><strong>Pomspeak:</strong> @Compendium[undertaking-chrystalis.abilities.AE0KUM7BKCOU8WME]{Pomspeak}</li><li><strong>Moogle Cunning:</strong> @Compendium[undertaking-chrystalis.abilities.69K8BGCG8W6XGIFK]{Moogle Cunning}</li><li><strong>Psychic Vulnerability:</strong> @Compendium[undertaking-chrystalis.abilities.YN4J4F2ZFPGWXJ04]{Psychic Vulnerability}</li><li><strong>Aether Panic:</strong> @Compendium[undertaking-chrystalis.abilities.30ITRW5C1Z09XOBT]{Aether Panic}</li><li><strong>Secretive:</strong> @Compendium[undertaking-chrystalis.abilities.3IPU33RXW9OVI38E]{Secretive}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "ERCS1ZQQZCGVTFH6"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Light-Winged Aarakocra",
+  "type": "race",
+  "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+  "system": {
+    "description": {
+      "value": "<p>Light-winged aarakocra have smaller and lighter wings than average, about 3 feet wide when extended.  The shortened size and reduced weight of their wings keeps light-wings swift and nimble.  However, much to their frustration, this prevents extended flight.  In a people that holds flight in such high regard, their limitations in flight can be seen as an obstacle to overcome, despite their exceptionally fast and nimble flying skills.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Light-Winged Aarakocra Traits</p><ul><li><strong>Compatibility: </strong>Avian</li><li><b>Attribute Increase: </b>Your Dexterity increases by 1.</li><li><strong>Increased Flight Speed: </strong>Your flying speed is increased by +25ft.<br>To use this speed, you cannot be wearing medium or heavy armor, and you must have 5ft of space on each side of you in order to take off.</li><li><strong>Short-Distance Flyer: </strong>@Compendium[undertaking-chrystalis.abilities.X6IUSNJH6BDDZ2Y4]{Short-Distance Flyer}</li><li><strong>Talons: </strong>@Compendium[undertaking-chrystalis.abilities.BPZAPCA1C8SN9VNC]{Talons}</li><li><strong>Extra Language: </strong>You can speak, read, and write one language of your choice.</li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "NTGGFTR8CUZLP4QE"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Core Halfling",
+    "type": "race",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Halflings are bipedal, partially-haired mammals that are not unlike short humans or elves at a glance, with similar (if shortened) proportions, skin pigmentations, and hair colors. Upon closer inspection though, halflings have proportionally larger ears that sometimes come to a tapered point, larger feet, with thicker patches of hair on them, and occasionally a slightly wider range of eye colors, including more yellows and pastels. These hues, however, are often overruled by genes from mixed bloodlines, giving them a large array of looks. Facial hair is hard-grown on halflings beyond sideburns, though some are capable of the act.</p><p>Thought to be distant cousins of Dwarves, Halflings have a long history as survivors. Despite their diminutive size, their ingenuity and capability in survival, craft, and even physicality, has kept them alive no matter where they settle. Halflings have been known to settle successfully in some harsh environments even humans wouldn&rsquo;t settle, and this is partially helped by the deceptiveness of their form. Despite their stature, halflings have enough muscle, agility, and magic packed into them to match races twice their size. While people expect this from the bulky forms of Dwarves, it tends to catch others off guard. A common saying is to never underestimate a Halfling, especially a skilled one. Assumedly this was started by one who found out this fact the hard way.</p><p>Another old saying positions halflings as traditional people of the lands, and not inherently true, it did come from a spec of truth. This was written by one complimenting a group of Halflings in their down-to-earth nature. Traditional practices like remaining barefooted to keep in tune with your environment are practices still held by halflings today, and while their feet are better built for it, some non-Halfling settlements have shared in the practice&mdash;with proper washing equipment handy, of course.</p><h3>Halfling Branches</h3><p>Halflings define themselves by the kinds of people they are.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "core",
+        "classDetails": "<p>Core Halfling Traits</p><ul><li><strong>Attribute Increase: </strong>Your Dexterity increases by 2.</li><li><strong>Lifespan: </strong>Halflings generally live around 150 years, and reach maturity around 20.</li><li><strong>Size: </strong>Small; Halfling are generally about half the height of humans, averaging around 3 feet tall, but weighing notably less, averaging around 40 pounds in adulthood.</li><li><strong>Speed: </strong>Your base ground speed is 25 feet.</li><li><strong>Languages: </strong>You can speak, read, and write Common and Landspeak.</li><li><strong>Halfling Luck:</strong> @Compendium[undertaking-chrystalis.abilities.H4ODACYEZ4SK3PGZ]{Halfling Luck}</li><li><strong>Nimbleness:</strong> @Compendium[undertaking-chrystalis.abilities.CZ7D7Z43Y7NIWKNY]{Nimbleness}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "L1VQWBXGW7T8AN61"
+}

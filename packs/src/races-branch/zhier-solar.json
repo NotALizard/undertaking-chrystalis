@@ -1,0 +1,23 @@
+{
+    "name": "Solar Zhier",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Born with a connection to the sun, solar zhier tend to bound with energy. They often have brighter fur colors with larger tail tufts that more visibly spark with their birth element, should they have one. As they enter the fray of combat, striking an opponent, they seem to gain a burst of energy or adrenaline, spinning around for more strikes with shining speed.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Solar Zhier Traits</p><ul><li><strong>Attribute Increase: </strong>Your Wisdom increases by 1.</li><li><strong>Element Spin: </strong>@Compendium[undertaking-chrystalis.abilities.43XDXL0669PGI5OZ]{Element Spin}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "K80KG3DG2CNS3JGM"
+}

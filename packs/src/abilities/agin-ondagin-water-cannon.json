@@ -1,0 +1,25 @@
+{
+    "name": "Water Cannon",
+    "type": "ability",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>While your water pouch is full, you can shoot its contents at a target as a high-velocity ranged weapon attack against a creature up to 60ft away as an action. If this attack hits, it deals 2d10 bludgeoning damage.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "IN18SOBFF4I44W0L"
+}

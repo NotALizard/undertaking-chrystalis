@@ -1,0 +1,23 @@
+{
+    "name": "Courser Centaur",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Courser centaurs are swift and strong, trained in the art of jousting, an old centaur war technique requiring speed, aim, and a strong grip. While still effective in war, jousting has more recently become a public sport.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Courser Centaur Traits</p><ul><li><strong>Attribute Increase: </strong>Your Strength increases by 1.</li><li><strong>Weapon Proficiency:</strong> You have proficiency in Lances, Glaives, and Pikes.</li><li><strong>Armor Proficiency: </strong>You have proficiency in Light and Medium Armor.</li><li><strong>Faint-Hearted:</strong> @Compendium[undertaking-chrystalis.abilities.WM0L47S0SBMKALDW]{Faint-Hearted}</li><li><strong>Joust:</strong> @Compendium[undertaking-chrystalis.abilities.3XRM18PRXTZGV9HF]{Joust}</li><li><strong><em>*Alternate Compatibility:</em></strong> You can choose to instead have the Hominid compatibility for the sake of mix-racing, gaining the following traits.<ul><li><strong>Increased Move Speed: </strong>Your movement speed is increased by +5ft.</li></ul></li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "DG9VON4Z0ZXCQK5B"
+}

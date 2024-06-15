@@ -1,0 +1,23 @@
+{
+    "name": "Hobby Centaur",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Hobby centaurs are racers, named after &ldquo;the hobby sport&rdquo; they practice. Hobbies are great at building up momentum and keeping it going, making them blazing fast adventurers, deliverers, racer, or otherwise.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Hobby Centaur Traits</p><ul><li><strong>Compatibility: </strong>Bestial (or Hominid with <em>Alternate Compatibility</em>)</li><li><strong>Attribute Increase: </strong>Your Dexterity increases by 1.</li><li><strong>Increased Move Speed: </strong>Your movement speed is increased by +10ft.</li><li><strong>Momentum:</strong> @Compendium[undertaking-chrystalis.abilities.G1YU7ORIXJ5VTL9G]{Momentum}</li><li><strong><em>*Alternate Compatibility:</em></strong> You can choose to instead have the Hominid compatibility for the sake of mix-racing, gaining the following traits.<ul><li><strong>Proficiency: </strong>You have proficiency in Strength (Athletics).</li></ul></li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "6GEU209WYV19RZLA"
+}

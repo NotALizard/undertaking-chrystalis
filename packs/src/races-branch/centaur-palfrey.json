@@ -1,0 +1,23 @@
+{
+    "name": "Palfrey Centaur",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Like how jennet is a term for centaurs known for the control of their public presence, palfreys are similarly-gaited centaurs used to long travel, especially in the form of delivery or transportation work. Palfreys have even more control over their steps, and have an impressive endurance capable to take them anywhere they want to go.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Palfrey Centaur Traits</p><ul><li><strong>Compatibility: </strong>Bestial (or Hominid with <em>Alternate Compatibility</em>)</li><li><strong>Attribute Increase: </strong>Your Presence increases by 1.</li><li><strong>Proficiency: </strong>You have proficiency in one of the following:</li><ul><li>Wisdom (Instinct)</li><li>Wisdom (Nature)</li><li>The Pathfinder Trade</li></ul><li><strong>Gliding Hooves:</strong> @Compendium[undertaking-chrystalis.abilities.R9QRMI6JPZHWRY19]{Gliding Hooves}</li><li><strong>Ambling Gait:</strong> @Compendium[undertaking-chrystalis.abilities.J2VAX4X3PMCTECV7]{Ambling Gait}</li><li><strong><em>*Alternate Compatibility:</em></strong> You can choose to instead have the Hominid compatibility for the sake of mix-racing, gaining the following traits.<ul><li><strong>Increased Move Speed: </strong>Your movement speed is increased by +5ft.</li></ul></li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "HPDJHR8310AK40CG"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Stand Your Ground",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>When an effect forces you to move&mdash;such as through a pull, a push, or a slide&mdash;you can choose to move 5 feet less than the effect specifies. This means an effect that normally pulls, pushes, or slides a target 5 feet does not force you to move at all. <br />In addition, when an attack would knock you @Compendium[undertaking.conditions.RK3DF56CKMQUV6DM]{Prone}, you can immediately make a save check to avoid falling prone.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "C6IUGKP3IZX9GPYA"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Natural Taser",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>If you have a natural weapon from your core race, you can deal lightning damage with it. Otherwise, you have a short tentacle connected to your spine coming out of the base of your neck that can be used to deal 1d4 bludgeoning damage as a natural weapon.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "ZRVTNHKF7HHKEDQR"
+}

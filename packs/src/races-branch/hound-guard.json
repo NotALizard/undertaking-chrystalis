@@ -1,0 +1,23 @@
+{
+    "name": "Guard HOUND",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Often called &ldquo;Guard Dogs,&rdquo; guard HOUNDS seem to be the most technically advanced HOUND type. Their tentacle is longer and stronger, having an extra draining effect on those who touch it. Beyond this, these are the only HOUNDs known to be capable of innate casting, putting up barriers on themselves or others. <br />Guard HOUNDs have sleeker, almost reflective fur, and can sometimes appear more absent in the face. Despite this, it&rsquo;s a common observation that guard HOUNDs tend to be quite empathetic and protective underneath it all.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Guard HOUND Traits</p><ul><li><strong>Attribute Increase: </strong>Your Constitution increases by 1.</li><li><strong>Natural Taser:</strong> @Compendium[undertaking-chrystalis.abilities.ZRVTNHKF7HHKEDQR]{Natural Taser}</li><li><strong>Sap:</strong> @Compendium[undertaking-chrystalis.abilities.OD7VHAOMYSHI6A0K]{Sap}</li><li><strong>Support Barrier:</strong> @Compendium[undertaking-chrystalis.abilities.L9G5ZATA5P46BRNY]{Support Barrier}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "837TFOGCXJ2B0W8H"
+}

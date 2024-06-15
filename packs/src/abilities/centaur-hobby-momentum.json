@@ -1,0 +1,25 @@
+{
+    "name": "Momentum",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>If you moved at least 30ft the previous turn in a broad direction, you can move an additional 20ft in the same general direction at the start of your turn as a free action.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "G1YU7ORIXJ5VTL9G"
+}

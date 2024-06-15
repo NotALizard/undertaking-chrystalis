@@ -1,0 +1,25 @@
+{
+    "name": "Tough Scales",
+    "type": "ability",
+    "img": "icons/creatures/reptiles/dragon-horned-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Your tough scales are calloused and resilient. While not wearing armor, your Armor Class is 13 + your Dexterity Modifier.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "0XQ9L6S70HW321JA"
+}

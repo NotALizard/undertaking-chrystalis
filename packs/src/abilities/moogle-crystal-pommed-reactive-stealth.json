@@ -1,0 +1,25 @@
+{
+    "name": "Reactive Stealth",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>When your heart races at the start of a dangerous situation, your aether activates within you, shielding you from the eyes of others.&nbsp;<br />If you have any cover or concealment when you make an initiative check, you turn @Compendium[undertaking.conditions.YE63H7VLOHW7NFHO]{Invisible} until the end of your next turn, or until you take an action, cast a spell, or make an attack.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "M1E1NFDFV8S282YG"
+}

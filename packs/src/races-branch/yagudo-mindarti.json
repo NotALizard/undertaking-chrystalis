@@ -1,0 +1,23 @@
+{
+    "name": "Mindarti Yagudo",
+    "type": "race",
+    "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+    "system": {
+        "description": {
+            "value": "<p>Like all creatures, yagudo have a primal survival instinct within them. Unlike most though, yagudo have found a productive use for them. In combat, the psychological battle is as important as the physical one. As yagudo warriors, mindarti yagudo have spent years training their mind to suppress and manage the psychological damage and instincts inherent in life-or-death situations through complex mental techniques. Taken further, mindarti yagudo have developed a self-hypnotizing technique to mentally distance themselves from the combat, relying purely on instincts to pull them through. To their allies, they are brave and wise warriors trained in the mental tolls of struggle. To their enemies, they are dead-eyed, unreasoning terrors cutting across the battlefield.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Mindarti Yagudo Traits</p><ul><li><strong>Attribute Increase: </strong>Your Wisdom increases by 1.</li><li><strong>Calm Mind:</strong> @Compendium[undertaking-chrystalis.abilities.4OTXAALL93B9P0N8]{Calm Mind}</li><li><strong>Battle Trance: </strong>@Compendium[undertaking-chrystalis.abilities.DDOASFZMJ69TGLUG]{Battle Trance}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "BMS0IJMAHYQY44WI"
+}

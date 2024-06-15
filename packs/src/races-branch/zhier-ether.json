@@ -1,0 +1,23 @@
+{
+    "name": "Ether Zhier",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Born with a connection to the sky, ether zhier tend to have slightly longer and more airy fur and manes that flow when they move. In addition, they can build up air around them to move in quick bursts as if slipping through space itself.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Ether Zhier Traits</p><ul><li><strong>Attribute Increase: </strong>Your Dexterity increases by 1.</li><li><strong>Sled Fang:</strong> @Compendium[undertaking-chrystalis.abilities.BOSWPBBWH372R4W9]{Sled Fang}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "O5KLHM72I46G1X8T"
+}

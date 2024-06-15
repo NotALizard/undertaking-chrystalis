@@ -1,0 +1,23 @@
+{
+    "name": "Quagin",
+    "type": "race",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>Perhaps the most stand-out of the agin, quagin appear part way between a fish, a frog, and a turtle, with a fish-like face and gills, a frog-like tongue and webbed toes, and a turtle-like shell and and scales. Beyond this, they feature other features that cannot quite be placed either, like long, flexible tails, and thin fur-like keratin around the wrists and shoulders, and sometimes the ankles or tail.<br />For these reasons, some believe quagin to be a different species that was absorbed into the agin through generations of gene-mixing, a theory quagin often deny. Quagin often point out the similarities between them and other agin, namely their webbed feet and hands, their fish-like faces, their similar body shape and scale texture, their thin tails, and being fish with natural keratin armor.</p><p>In either case, quagin are naturally defended by an impressively impenetrable keratin shell and keratin &ldquo;furs,&rdquo; so much so that even quagin hunters find no need for armor. Even if they did, their shelled torso is too rounded for most armor anyway.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Quagin Traits</p><ul><li><strong>Attribute Increase: </strong>Your Constitution increases by 1.</li><li><strong>Trade Proficiency: </strong>You have proficiency in the Fishing Trade.</li><li><strong>Thick Shell: </strong>@Compendium[undertaking-chrystalis.abilities.3SFEJSNI19GQEGRC]{Thick Shell}</li><li><strong>Shell Defense:</strong> @Compendium[undertaking-chrystalis.abilities.KLSTCXF94REGPI8E]{Shell Defense}</li><li><strong>Natural Conjurer:</strong> @Compendium[undertaking-chrystalis.abilities.UTARGEU10YNEKEFB]{Natural Conjurer}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "E8GZMB0FDQI2FJP1"
+}

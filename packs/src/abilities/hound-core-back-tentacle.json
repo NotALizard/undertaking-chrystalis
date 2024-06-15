@@ -1,0 +1,25 @@
+{
+    "name": "Back Tentacle",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>HOUNDs have small nubbed and useless tails. They do, however, have a tentacle that branches off of their spine at the base of their neck, trailing behind them like a scarf as they move. These tentacles are ostensibly the HOUND&rsquo;s improved tail, and can be seen wagging when HOUNDs are happy.<br />This tentacle is flexible and dexterous, being able to carry small objects and light weapons. It is not dexterous enough to wield three weapons simultaneously, but it can be used for dual-wielding.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "V4ELT5H3LNEQL4M0"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Sa Huagin",
+    "type": "race",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>The most common form of huagin, sa huagin are as equally dangerous and capable as their four-armed brethren. Not the least of which because of their natural instinct to move in for the kill with their teeth. Their four-armed brethren have mostly foregone this for extra weapons, but have lost some of the elements that make sa so scary to fight. The sharp teeth of sa, their intensely well-tuned nose, their biology that causes blood to have a slightly tangy taste instead of metallic&mdash;all of these causes sa to have an easy hair trigger for taking a bite out of the opposition before they can have any say in the matter.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Sa Huagin Traits</p><ul><li><strong>Attribute Increase: </strong>Your Strength increases by 1.</li><li><strong>Proficiency: </strong>You have proficiency in one of the following:</li><ul><li>Wisdom (Theology)</li><li>The Artisan Trade</li><li>The Smithing Trade</li></ul><li><strong>Bite:</strong> @Compendium[undertaking-chrystalis.abilities.2CBDO4X2RCCI1I7T]{Bite}</li><li><strong>Sunlight Sensitivity:</strong> @Compendium[undertaking-chrystalis.abilities.O4KN9KSY9TSD35IZ]{Sunlight Sensitivity}</li><li><strong>Dry Skin:</strong> @Compendium[undertaking-chrystalis.abilities.TVITHYCL34Z36D9B]{Dry Skin}</li><li><strong>Detect Blood:</strong> @Compendium[undertaking-chrystalis.abilities.XQPVVR1T3SAKQ58N]{Detect Blood}</li><li><strong>Blood Frenzy:</strong> @Compendium[undertaking-chrystalis.abilities.1A4GDT5VARMFSA77]{Blood Frenzy}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "WQ3XBPJ31CTBSBP5"
+}

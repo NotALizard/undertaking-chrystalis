@@ -1,0 +1,23 @@
+{
+    "name": "Fuzz-Pommed Moogle",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Fuzz-Pommed Moogle Traits</p><ul><li><strong>Attribute Increase: </strong>Your Presence increases by 1.</li><li><strong>Extra Language: </strong>You can speak, read, and write one language of your choice.</li><li><strong>Festal Cant:</strong> @Compendium[undertaking-chrystalis.abilities.VRP1ZGQ24V72EKK8]{Festal Cant}</li><li><strong>Animist:</strong> @Compendium[undertaking-chrystalis.abilities.OM8FHSWKRYQU26K4]{Animist}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "E2OZ7K8CH3UY0XRP"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Core Orc",
+    "type": "race",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Orcs are wide-built, often muscled, humanoids, generally with pointed ears, that stand on the taller end of medium creatures. Their skin pigmentations can range from blacks and grays to whites and pales, but no matter the color, there is almost always some green to their pigmentation. Orcs are often known for having a green skin, despite not unilaterally being the case. Orc hair is almost always naturally black or dark brown, or occasionally white, silver, or even a goblin-red. While they can grow hair of all types, orcs have a tendency toward complete or male-pattern baldness. As a result, clean-shaven heads, sometimes with a ponytail, is common a look amongst orcs. Orcs also tend to have two tusk-like lower canines that grow out of their mouth over time, often giving them an underbite. The size and angle of orc tusks can vary from dangerous to aesthetic, but often requires some level of filing to keep them from puncturing their own lips or face. While not as common, some types of orcs have flatter faces, with almost bull-like nose-shapes as a result.</p><p>Easily distinguished by their sizable and typically greenish bodies, orcs were long feared for their terrifying presence on the battlefield. While not defining of orcs as a whole, orc culture is iconic for its focus on martial prowess, where the strongest rise to the top. Most famously, this led to some orc settlements devolving into raiders simply in search of conflict. Starting extended wars, souring diplomatic relations with other races for generations. To some, this was considered simply befitting of their biology, one which makes musculature easy to build and keep, and adrenaline easy and rewarding to produce. However, what&rsquo;s often overlooked is that most orcs found little joy in the <em>senselessness</em> of the violence. Clans that encouraged it ended up losing many, not the least of which to exile, causing more amicable rival clans to appear and grow. Despite conflict with the older clans, these new grew more quickly through strategic use of diplomacy and their ferociousness to defend their home and allies. Orcish warbands very well still exist, but so too do orcish cities and families.</p><p>Despite the stereotype of orcs living for conflict, orc culture is made up of more than just just death. Combat is prevalent, but so too is art and music, especially the physical kinds like metallurgy, dance, and drums. In addition, orcish storytelling shows a flair for both the dramatic and comedic, and their theological history is one of the world&rsquo;s oldest. These concepts were long considered foreign, but have become a much more understood element as orcs find their places in mixed cities.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "core",
+        "classDetails": "<p>Core Orc Traits</p><ul><li><strong>Attribute Increase: </strong>Your Strength increases by 2, and your Constitution increases by 1.</li><li><strong>Attribute Decrease:</strong> Your Intelligence decreases by 2.</li><li><strong>Lifespan:</strong> Despite their strong physical builds, Orcs tend to live to about 50, and are considered full adults at 12.</li><li><strong>Size: </strong>Medium; Orcs have a large stature, usually being over 6 feet tall and weighing 230-280 pounds.</li><li><strong>Speed: </strong>Your base ground speed is 30 feet.</li><li><strong>Menacing:</strong> You have proficiency in Charisma (Intimidation).</li><li><strong>Languages: </strong>You can speak, read, and write Common and Orc.</li><li><strong>Aggressive:</strong> @Compendium[undertaking-chrystalis.abilities.7D1BX6907PR8SXM1]{Aggressive}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "T1JKA9PZOALK6UYH"
+}

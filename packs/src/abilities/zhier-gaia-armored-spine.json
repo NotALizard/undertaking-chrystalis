@@ -1,0 +1,25 @@
+{
+    "name": "Armored Spine",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>You have a set of keratin scales layered along your spine, giving you extra protection where it counts. While not wearing armor, your Armor Class is 11 + your Dexterity Modifier.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "17W19EQIIK1KKGK2"
+}

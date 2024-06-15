@@ -1,0 +1,25 @@
+{
+    "name": "Blood Hound",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>As an action, you can sniff blood to catch its scent and determine how old the blood is. In addition, for the next 24 hours, you have expertise in Intelligence (Investigation) to track down any blood from that specific creature, even amongst other blood scents.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "6Z08OG3H8B0SJEYR"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Nessus Liver",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>You have disadvantage on save checks relating to the @Compendium[undertaking.conditions.SRRBLPRSJWGUR551]{Poisoned} condition.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "GL4BGAFGX1KAQI32"
+}

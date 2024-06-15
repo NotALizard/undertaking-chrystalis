@@ -1,0 +1,23 @@
+{
+  "name": "Core Agin",
+  "type": "race",
+  "img": "icons/creatures/fish/fish-shark-swimming.webp",
+  "system": {
+    "description": {
+      "value": "<p>Agin are bipedal, aquatic, fish-like beings covered in fins, scales, and hardened carapaces.  They have long tails, usually thin, and also have relatively long arms.  Their heads are fish-like, often connected to thick, curved necks that house their gills.  They have webbed hands and feet, and their bodies are often covered in dorsal fins to varying degrees, primarily on the head, neck, arms, legs, and back, giving them an exceptional ability to cut through water.  Depending on the branch, agin have different types of carapaces, some like turtle shells attached to their back, and others in various armor-like plates along the legs, torso, and sometimes arms.<br>Despite these consistencies, agin, as a race, have more variable genetic branches than most, ranging from more scaled and fish-like to more smooth and turtle-like.  Some consider quagin and novvagin so divergent as to be different races at this point, but as one of the most successful, long-lasting, and well-recorded aquatic cultures, agin have remained united in their identification.  <br>Agin have fish-like reflective scales, often of toned-down greys, blacks, blues, greens, teals, and whites.  Their brighter colored fins and carapaces of whites, yellows, reds, browns, cyans, and deep blues.  They tend to have slightly brighter undersides, sometimes with their fin colorations showing through.  Their eyes are often partially opaque looking, with bright white being most common, as well as other core colors.  Gills fall into the same color ranges as fins, but don't always match.  Occasionally, agin are born in more vivid colorations, such as striking whites, neons, or rainbow colorations.  <br>Agin tend to live short and somewhat traditional lives on paper, breeding quickly, moving to new locations with a clutch, and repeating.  In reality, this tends to lead to two defining elements of agin society.  Firstly, is that agin communities tend to live very tightly packed in water-filled communities, often located near the shore or in structures that stick out of the water, as newborn agin take a few weeks for their gills to fully grow in.  Secondly, and related to the first, is that agin in these communities often seek to stand out from their many tightly-packed peers.  This often leads to agin striking out and creating their own clutches and settlements, or otherwise taking on daring acts or styles to stand out against the crowd.  Agin with particularly stand-out colorations tend to be very divisive.  They're recognizable and often become social leaders, but also remind other agin just what they lack and can be hated for it.  Such danger is the double-edged sword of standing out in a school of piranhas.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Core Mandrid Traits</p><ul><li><b>Compatibility: </b>Aquatic</li><li><b>Attribute Increase: </b>Your Dexterity and Intelligence scores both increase by 1.</li><li><b>Lifespan: </b>Agin generally live around 30 years or less, and reach maturity at 3.</li><li><b>Size: </b>Medium; Agin vary in height and size, with the medium-sized ones typically being between 5-7 feet tall and weighing around 150-220 lbs.</li><li><b>Speed: </b>Your base walking speed is 30 feet.</li><li><b>Swim Speed: </b>You have a natural swim speed of 30 feet.</li><li><b>Amphibious: </b>@Compendium[undertaking-chrystalis.abilities.FIAKA97FYXBI8RXA]{Amphibious}</li><li><b>Aquatic Vocals: </b>@Compendium[undertaking-chrystalis.abilities.Z8DDRTNAZ7MNXHTT]{Aquatic Vocals}</li><li><b>Thirsty: </b>@Compendium[undertaking-chrystalis.abilities.2A2YVFHVC897WU4M]{Thirsty}</li><li><b>Desalination Filter: </b>@Compendium[undertaking-chrystalis.abilities.229NEQ0M700XBPRV]{Desalination Filter}</li><li><b>Languages: </b>You can speak, read, and write Common and Aquan.</li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "3IVMEG7KW79971AM"
+}

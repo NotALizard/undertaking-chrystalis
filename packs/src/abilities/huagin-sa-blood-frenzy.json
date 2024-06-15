@@ -1,0 +1,25 @@
+{
+    "name": "Blood Frenzy",
+    "type": "ability",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>When a creature within 10ft takes damage, you can spend your reaction to move to the target, if needed, and make an opportunity Bite attack against it.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "1A4GDT5VARMFSA77"
+}

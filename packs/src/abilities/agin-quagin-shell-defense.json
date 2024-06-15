@@ -1,0 +1,25 @@
+{
+    "name": "Shell Defense",
+    "type": "ability",
+    "img": "icons/creatures/fish/fish-shark-swimming.webp",
+    "system": {
+        "description": {
+            "value": "<p>You can withdraw into your shell as a minor action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Constitution (Save) checks. However, while in your shell, you are considered @Compendium[undertaking.conditions.RK3DF56CKMQUV6DM]{Prone}, your speed is 0 and you cannot be increased, you automatically fail Dexterity (Save) Checks, you can&rsquo;t take reactions, and you cannot do anything besides emerge from your shell.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "KLSTCXF94REGPI8E"
+}

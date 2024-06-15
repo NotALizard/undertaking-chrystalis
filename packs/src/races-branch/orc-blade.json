@@ -1,0 +1,23 @@
+{
+    "name": "Orc Blade",
+    "type": "race",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Orc blades are orcs known for their capability in the blade, and are often commanders of orc armies. Their calls to battle are trained, loud, and clear, helping lead their warriors to strike when the moment is nigh.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Orc Blade Traits</p><ul><li><strong>Attribute Increase: </strong>Your Wisdom increases by 1.</li><li><strong>Orc Blade Training:</strong> You have proficiency with Longswords, Javelins, and Greatswords.</li><li><strong>Blade&rsquo;s Command:</strong> @Compendium[undertaking-chrystalis.abilities.7ZE7TGCRGVSO7G7H]{Blades Command}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "3BLRPLZ0TB007WF6"
+}

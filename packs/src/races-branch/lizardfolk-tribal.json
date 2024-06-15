@@ -1,0 +1,23 @@
+{
+    "name": "Lizardfolk Tribal",
+    "type": "race",
+    "img": "icons/creatures/reptiles/dragon-horned-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Lizardfolk Tribals are the most common lizardfolk, earning the title from undertaking and mastering the practices of their people. Tribals are respected for their focused capability in certain trades, skills, and weaponry. A common phrase amongst lizardfolk, is that a balanced skill set means a balanced life. To prove oneself and to earn the title of tribal is a right of passage for many young lizardfolk, and one that they hold in high regard. To need help is to seek a tribal who can help you. So too do those who need help seek you.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Lizardfolk Tribal Traits</p><ul><li><strong>Attribute Increase: </strong>Your Wisdom increases by 1.</li><li><strong>Skill Proficiency:</strong> You have proficiency in one of the following skills:</li><ul><li>Dexterity (Stealth)</li><li>Wisdom (Instinct)</li><li>Wisdom (Nature)</li><li>Wisdom (Perception)</li></ul><li><strong>Tool Proficiency:</strong> You have proficiency in one Trade Proficiency of your choice.</li><li><strong>Weapon Proficiency:</strong> You have proficiency in Clubs, Spears, Shortbows, and Shields.</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "H8KNVUFDBUVTI6XR"
+}

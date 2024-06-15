@@ -1,0 +1,25 @@
+{
+    "name": "Quadruped",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>You are a quadrupedal creature, walking on four legs. You also have no arms to wield weapons, cast spells, interact with objects that require hands or arms, or ride creatures of equal or smaller size than you.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "3WX6VVTTC06L78IL"
+}

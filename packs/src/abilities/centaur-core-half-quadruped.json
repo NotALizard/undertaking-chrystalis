@@ -1,0 +1,25 @@
+{
+    "name": "Half-Quadruped",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Everything below your waist is that of a quadruped, as if your waist replaced the neck of the animal. In pure centaurs, the lower half is a horse, but mixed bloodlines sometimes have more exotic forms. <br />Due to this unique setup, you are always considered to be on a mount and are not slowed by weighty armor. However, you cannot reasonably mount other creatures unless they are two sizes larger than you, and you have a climbing speed of 0 feet.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "CN2C99OCSM1GHZD5"
+}

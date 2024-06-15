@@ -1,0 +1,25 @@
+{
+    "name": "Dark Emissions",
+    "type": "ability",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>You can cast <em>darkness (D&amp;D 5th edition)</em> without any components once per short rest. <br />You can use your Intelligence, Wisdom, or Presence as your spellcasting attribute when casting spells this way.<br />At 5th level, you gain a 2nd usage of <em>darkness</em>.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "Y53BJZC4Q6GYHO2U"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Vigilance",
+    "type": "ability",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>You have advantage on Initiative checks, and when you take a long rest, you sleep for only 4 hours, instead of 6.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "KGL8V4LCCHUAYD9E"
+}

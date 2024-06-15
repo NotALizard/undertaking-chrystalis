@@ -1,0 +1,25 @@
+{
+    "name": "Ambling Gait",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>You are unaffected by non-magical rough terrain that is slick, craggy, uneven, or damaged. In addition, you do not get tired from an increased movement pace over long distance travel.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "J2VAX4X3PMCTECV7"
+}

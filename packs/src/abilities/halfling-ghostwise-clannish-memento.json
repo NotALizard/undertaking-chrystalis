@@ -1,0 +1,25 @@
+{
+    "name": "Clannish Memento",
+    "type": "ability",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>You obtain one trinket or some other mundane object determined by your GM. This is your clan memento, a sacred, if mundane, object that connects you to your clan. It is considered a great sin to lose such an object, an act rarely overlooked by ghostwise kin.<ul><li>Should you play a spellcasting class, this trinket may act as a spellcasting focus for your class.</li></ul></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "LPXX1TL6LYIM7TD7"
+}

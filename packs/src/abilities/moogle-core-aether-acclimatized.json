@@ -1,0 +1,25 @@
+{
+    "name": "Aether Acclimatized",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Moogle bodies absorb aether like a sponge, leaving them feeling slightly refreshed rather than the more extreme effects other creatures experience. You are able to ignore penalties from aether-flooded environments. </p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "IZM8FZJEUT1NGAC6"
+}

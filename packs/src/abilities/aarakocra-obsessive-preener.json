@@ -1,0 +1,25 @@
+{
+  "name": "Obsessive Preener",
+  "type": "ability",
+  "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your powderdown and preen gland production is especially high, and you have taken full advantage of it through consistent preening.<br>After a rest spent doing extensive grooming, for the next 24 hours you are no longer disadvantaged when attempting to exit water through flying and can fly through water at half speed during the turn you enter it.  In addition, you have advantage on melee weapon attacks made on the turn you enter or exit the water.<br>You can spend a short rest preening a willing creature to give the same bonus to them for 12 hours.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "LMHJPPL5SVX5BROE"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Galeborn Ixudo",
+    "type": "race",
+    "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+    "system": {
+        "description": {
+            "value": "<p>Galeborn ixudo generally have brighter scale colors, slightly more feathers, and stand about a half-foot or more taller than other ixudo.</p><p>Galeborn are generally the upper class of ixudo culture, with easier access to leadership and master engineering positions.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Galeborn Ixudo Traits</p><ul><li><strong>Compatibility: </strong>Avian</li><li><strong>Attribute Increase: </strong>Your Dexterity increases by 1.</li><li><strong>Extra Language: </strong>You can speak, read, and write one language of your choice.</li><li><strong>Engineer: </strong>Choose one of the following:</li><ul><li>Only if you already have proficiency in Intelligence (Craft) from elsewhere:&nbsp;</li><ul><li>You gain expertise in Intelligence (Craft).</li></ul><li>You have proficiency in the Intelligence (Craft) and Dexterity (Sleight of Hand) skills.</li></ul><li><strong>Trade Proficiency:</strong> You are proficient in one Trade your choice.</li><li><strong>Racial Trinket:</strong> You gain an extra trinket, roll on the <em>Mechanical Trinket Table</em> to determine which trinket. You built this trinket in your childhood, but have been unable to replicate it since then.</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "PRESWI10WZGJS7X8"
+}

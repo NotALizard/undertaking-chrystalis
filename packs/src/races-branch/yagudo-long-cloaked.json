@@ -1,0 +1,23 @@
+{
+    "name": "Long-Cloaked Yagudo",
+    "type": "race",
+    "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+    "system": {
+        "description": {
+            "value": "<p>Yagudo feathers, even their flight feathers, can vary in length depending on genetics. Long-Cloaked Yagudo have naturally much longer plume feathers that hang down to their ankles while standing. Due to the weight and size of their feathers, extended flight is tougher and more unwieldy for these yagudo. Instead, most long-cloaked yagudo have spent time refining their control over their feathers, using them as weapons as well as producing blustering twisters that can serve to give them or others a lift.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Long-Cloaked Yagudo Traits</p><ul><li><strong>Attribute Increase: </strong>Your Dexterity increases by 1.</li><li><strong>Feather Cloak: </strong>@Compendium[undertaking-chrystalis.abilities.H43LO152ML8KY4T1]{Feather Cloak}</li><li><strong>Storm Acclimatized:</strong> @Compendium[undertaking-chrystalis.abilities.ZLW85XPF3CGHSKPQ]{Storm Acclimatized}</li><li><strong>Flying Traits:</strong> If your core race has a flying speed, you have the following racial traits:</li><ul><li><strong>Additional Attribute Increase:</strong> Your Dexterity increases by 1.</li><li><strong>Short-Distance Flyer:</strong> @Compendium[undertaking-chrystalis.abilities.CHQEX8R0N8K403ME]{Short-Distance Flyer}</li></ul><li><strong>Grounded Traits:</strong> If your core race doesn&rsquo;t have a flying speed, you have the following racial traits:<ul><li><strong>Reduced Move Speed: </strong>Your ground speed defined by your core race is reduced by 5 feet.</li><li><strong>Force Vulnerability:</strong> @Compendium[undertaking-chrystalis.abilities.AXUO759KE1BR8CSP]{Force Vulnerability}</li><li><strong>Feathered Furore:</strong> @Compendium[undertaking-chrystalis.abilities.LSGUXQYD6TIVER1N]{Feathered Furore}</li></ul></li><li><strong>Wicked Wind:</strong> @Compendium[undertaking-chrystalis.abilities.0193TTGDKKEHH0H7]{Wicked Wind}</li><li><strong>Storm Starter:</strong> @Compendium[undertaking-chrystalis.abilities.PAOTZH5PZTUZJQ3H]{Storm Starter}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "QJX7ZVAPKAKSK1WQ"
+}

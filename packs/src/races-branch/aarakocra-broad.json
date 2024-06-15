@@ -1,0 +1,23 @@
+{
+  "name": "Broad-Winged Aarakocra",
+  "type": "race",
+  "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+  "system": {
+    "description": {
+      "value": "<p>The most common type of aarakocra, broad-wings are extraordinary fliers.  If it weren't for their need to sleep, broad-wings might fly endlessly without reprieve on their large, 5-6 foot wide wings.  This causes broad-wings to be very well traveled, seen in any and all parts of the world.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Broad-Winged Aarakocra Traits</p><ul><li><strong>Compatibility: </strong>Avian</li><li><strong>Reduced Move Speed: </strong>Your ground speed defined by your core race is reduced by 5 feet.</li><li><strong>Increased Flight Speed: </strong>Your flying speed is increased by +10ft.<br>To use this speed, you cannot be wearing medium or heavy armor, and you must have 5ft of space on each side of you in order to take off.</li><li><strong>Tendon Locking: </strong>@Compendium[undertaking-chrystalis.abilities.JDCR1ON5Y5CP5RET]{Tendon Locking}</li><li><strong>Extra Language: </strong>You can speak, read, and write one language of your choice.</li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "624M1DSS5N60Q2VN"
+}

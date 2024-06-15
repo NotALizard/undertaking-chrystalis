@@ -1,0 +1,25 @@
+{
+    "name": "Battle Trance",
+    "type": "ability",
+    "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+    "system": {
+        "description": {
+            "value": "<p>Once per long rest, through a mental technique passed down through generations of yagudo, you briefly close your eyes and put yourself into a state of self-induced hypnosis. You distance yourself from reality in preparation for the violence of combat. As you open your eyes again, you act purely on instinct, becoming @Compendium[undertaking.conditions.Y822OUCDEPAG0HS8]{Frenzied}. At the end of your turn, you can attempt to make a DC 13 Wisdom (Save) check to end the frenzy.<br />Frenzied conditions started this way are not affected by the Calm Mind racial trait.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "DDOASFZMJ69TGLUG"
+}

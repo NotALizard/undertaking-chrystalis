@@ -1,0 +1,23 @@
+{
+    "name": "Core Centaur",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Centaurs have the upper bodies, down to the waist, of muscular humans, sometimes with small horns on the males, displaying all the human variety of skin tones and features. Their ears are slightly pointed, but their faces are wider and squarer than those of elves. Below the waist, they have the bodies of small horses, as if connected to where the neck of a horse would be. Their lower halves have a similar range of coloration to horses&mdash;from various shades of chestnut or bay to dappled or even zebra-like striped patterns. Most centaurs style their hair and their tails in a similar way. The upper bodies of centaurs are comparable to human torsos in size, and their lower equine bodies average about 4 feet tall. They are about the size of a human rider mounted on a horse, and can fill similar roles as cavalry warriors, messengers, outriders, and scouts in many mixed societies.</p><p>They race the wind, hooves thundering and tails streaming behind them. Powerful and free, centaur society values a wild spirit and a desire to seek out and experience life's boundless bounty.</p><p>Centaurs are a very sporting race. Many enjoy the outdoors and the challenges they can face or compete over in the process, including centaur sports like jousting and racing (the &ldquo;hobby sport&rdquo; as they call it for it being so common of a centaur hobby).</p><h3>Centaur Branches</h3><p>Centaurs are always a humanoid attached to a horse-like body. Mix-racing the centaur core with another race causes the top half to change. These branches for centaurs instill the core spirit or cultural variance of the centaur. A different core race with a centaur branch may have centaur-like features, particularly of their horse breed, but does lack the quadrupedal part of the mix.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "core",
+        "classDetails": "<p>Core Centaur Traits</p><ul><li><strong>Attribute Increase: </strong>Your Strength and Constitution both increase by 1.</li><li><strong>Lifespan:</strong> Centaurs generally live into their 50s, and reach maturity in their early teens.</li><li><strong>Size: </strong>Medium; Centaurs vary in size, with some racial branches being notably larger. For a typical centaur, however, they stand in a range between 6 and 8 feet tall, weighing 700 to 1200 lbs.</li><li><strong>Speed: </strong>Your base ground speed is 40 feet.</li><li><strong>Languages: </strong>You can speak, read, and write Common and Landspeak.</li><li><strong>Beast Creature:</strong> @Compendium[undertaking-chrystalis.abilities.GFPVB7U36RHWOYH2]{Beast Creature}</li><li><strong>Half-Quadruped:</strong> @Compendium[undertaking-chrystalis.abilities.CN2C99OCSM1GHZD5]{Half-Quadruped}</li><li><strong>Mighty Physique:</strong> @Compendium[undertaking-chrystalis.abilities.PFJWLI03VJAVM1ZV]{Mighty Physique}</li><li><strong>Mount:</strong> @Compendium[undertaking-chrystalis.abilities.G9JSWFVTC0I74M5O]{Mount}</li><li><strong><em>*Alternate Compatibility:</em></strong> You can choose to instead have the Hominid compatibility for the sake of mix-racing, gaining the following traits.<ul><li><strong>Attribute Decrease:</strong> Decrease either your Strength or Constitution by 1.</li></ul></li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "AWP2OB8FHQ43Y5J6"
+}

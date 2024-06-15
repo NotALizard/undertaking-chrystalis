@@ -1,0 +1,25 @@
+{
+    "name": "Tentacle Taser",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Your back tentacle is engineered to be a weapon, sparking and shocking those who are struck by it. This natural weapon has the Light and Finesse properties, and deals 1d4 lightning damage.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "Q8PNG8PV7ADIJPIR"
+}

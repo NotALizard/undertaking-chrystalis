@@ -1,0 +1,25 @@
+{
+    "name": "Support Barrier",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>At 5th level, you can cast the @Compendium[undertaking.spells-level-2.3BUFFKXCN0WVRIMP]{Barrier} spell once per long rest.&nbsp;<br />You can use your Intelligence, Wisdom, or Presence as your spellcasting attribute when casting spells this way.<br />If you are a spellcaster, you can add this spell to your spell list. They are always prepared and do not count against the spells you can prepare each day.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "L9G5ZATA5P46BRNY"
+}

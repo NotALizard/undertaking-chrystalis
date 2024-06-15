@@ -1,0 +1,23 @@
+{
+    "name": "Blink HOUND",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Exceptionally hard to nail down, blink HOUNDs, often called &ldquo;Blink Dogs,&rdquo; have the uncanny ability to teleport short distances at will. For the instant before they do, what appears to be blue sparks appear in their eyes. Their fur tends to be very slightly blue tinted when looked at up close.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Blink HOUND Traits</p><ul><li><strong>Attribute Increase: </strong>Your Dexterity increases by 1.</li><li><strong>Blink:</strong> @Compendium[undertaking-chrystalis.abilities.1Z922M9WXLL4STOE]{Blink}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "MEZALI3CJFCL7ZMB"
+}

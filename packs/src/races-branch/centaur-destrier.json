@@ -1,0 +1,23 @@
+{
+    "name": "Destrier Centaur",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Destriers are the largest type of centaur, using their weight and size to their advantage. However, their size makes some elements of travel and maneuvering difficult.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Destrier Centaur Traits</p><ul><li><strong>Compatibility: </strong>Bestial (or Hominid with <em>Alternate Compatibility</em>)</li><li><strong>Attribute Increase: </strong>Your Strength increases by 1.</li><li><strong>Large Size:</strong> Your size is Large, taking up a 10sqft radius instead of a Medium creature&rsquo;s 5sqft. Your height increases by about 2+1d4 feet, and your weight increases by 1d4-1, minimum of 1, times 50% of your core race&rsquo;s weight. For example, if you are a pure-breed centaur, your weight might be around 1050-3000lbs at 9-14ft tall.<br />As a large creature, you have the following traits: @Compendium[undertaking-chrystalis.abilities.QJIK066JT0VMRODK]{Large}</li><li><strong>Stamp:</strong> @Compendium[undertaking-chrystalis.abilities.63I8T7TJ8C81LTSD]{Stamp}</li><li><strong><em>*Alternate Compatibility:</em></strong> You can choose to instead have the Hominid compatibility for the sake of mix-racing, gaining the following traits.<ul><li><strong>Proficiency: </strong>You have proficiency in Wisdom (Culture).</li></ul></li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "1ZCBHY1B3IFYA4V1"
+}

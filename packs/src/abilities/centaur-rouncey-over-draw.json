@@ -1,0 +1,25 @@
+{
+    "name": "Over-Draw",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>On your turn, before making an attack, you can spend 40 feet of your movement to add your Strength Modifier to your next attack and damage roll with a non-loading ranged weapon.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "S8JQ93YE6EAA2F3P"
+}

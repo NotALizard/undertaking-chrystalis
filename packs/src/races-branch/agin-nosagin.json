@@ -1,0 +1,23 @@
+{
+  "name": "Nosagin",
+  "type": "race",
+  "img": "icons/creatures/fish/fish-shark-swimming.webp",
+  "system": {
+    "description": {
+      "value": "<p>Nosagin, once known by land-dwellers as \"indigo terrors,\" are intimidating aquatics with large musculature, hunched backs, and large, peeled-back mouths.  Their tails are larger, with a tail fin to help them move in water, and their scales are often slightly more reflective, though often in shades of grey-blues and faded indigos.  Their hands have two sets of fingers, the outer set being long and webbed, and the inner set being a more typical set for manipulating objects.  <br>Perhaps most notably though is the large blue or purple chest piece acting as a container around their larger heart and blood veins, protecting it from the pressures of the deep.  While other agin have similar containers inside their body, nosagin hearts are literally worn on their chest, pumping life into their typically large bodies.  These pouches also extend under the skin down to the lower torso, expanding and protecting their many young from the pressures of the sea.  For this reason, nosagin females are common clutch matriarchs.  Beyond this though, their larger hearts are also imbued with a magic that empowers nosagin from their very core.  By tapping into it, they are able to empower themselves, and also conjure certain potent forms of magic tied to their being.  <br>Despite once thought of as monsters, nosagin are quite sentient and entirely capable of peaceful living.  While their engorged hearts can cause them to get a bit of a high off of adrenaline, nosagin are often extremely caring and careful when dealing with others.  The high-speed at which their blood flows can even make nosagin more liable to feel emotions more quickly and powerfully and, most notably, earnestly.  While a stereotype, there is some truth to the brutal earnesty of a nosagin heart-to-heart.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Nosagin Traits</p><ul><li><b>Compatibility: </b>Aquatic</li><li><b>Attribute Increase: </b>Your Constitution and Wisdom both increase by 1.</li><li><b>Attribute Decrease: </b>Your Presence is decreased by 1.</li><li><b>Reduced Move Speed: </b>Your ground speed defined by your core race is reduced by 5 feet.</li><li><b>Variable Size: </b>During character creation, choose to be either a Medium or Large creature.  If large, you have the following traits:<ul><li>Your height increases by about 2+1d4 feet, and your weight is 1.5-2 times that of your core race's weight.  For example, if you are a pure-breed agin, your weight might be around 225-440 lbs at 8-13 ft tall.</li><li>@Compendium[undertaking-chrystalis.abilities.35BSTZ6KYM7L96H3]{Large}</li><li><b>More Reduced Move Speed: </b>Your ground speed defined by your core race is further reduced by 5 feet.</li></ul></li><li><b>Shark Whisperer: </b>@Compendium[undertaking-chrystalis.abilities.IZKOGL4C01WCHBTU]{Shark Whisperer}</li><li><b>Heart of the Sea: </b>@Compendium[undertaking-chrystalis.abilities.J0TWM6BYE16KFRJ7]{Heart of the Sea}</li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "7067YBHU8JQB5L90"
+}

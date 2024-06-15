@@ -1,0 +1,23 @@
+{
+    "name": "Crag Goblin",
+    "type": "race",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Crag goblins, as a name, comes from the naturally tough keratin armor that grows on their heads, and the spike-like teeth or horns that grow in spots on their elbows, arms, shoulders, back, and sometimes even legs. With a tougher skin and arms that come to pointed elbows, crag goblins are instantly recognizable. However, the body horns do tend to make certain kinds of clothing more difficult to wear than others. <br />Beyond that, crag goblins have bigger teeth, including tusk-like canines that can grow to impressive sizes and even curve as they grow. Their legs are digitigrade instead of typical humanoid.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Crag Goblin Traits</p><ul><li><strong>Attribute Increase: </strong>Your Constitution increases by 1.</li><li><strong>Crag-Skinned:</strong> @Compendium[undertaking-chrystalis.abilities.OZBUVTXZYDLI3ROH]{Crag-Skinned}</li><li><strong>Fire Resistance:</strong> @Compendium[undertaking-chrystalis.abilities.5WZADV9O7UY7XSTP]{Fire Resistance}</li><li><strong>Psychic Resistance:</strong> @Compendium[undertaking-chrystalis.abilities.UBC0MOUJDXUANX86]{Psychic Resistance}</li><li><strong>Stealthy Grit:</strong> @Compendium[undertaking-chrystalis.abilities.L2WDCQD3W2OE3HZ6]{Stealthy Grit}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "SQ4IZMP8R49997YR"
+}

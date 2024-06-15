@@ -1,0 +1,25 @@
+{
+    "name": "Spirit Element (Cold)",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p><ul><li><strong>Look:</strong> Your fur falls into white shades.</li><li><strong>Cold Resistance:</strong> You are resistant to cold damage.</li><li><strong>Spirit Casting:</strong> You can cast the @Compendium[undertaking-homebrew.spells-cantrips.KH6D03TEJYZNA62N]{Deposition} cantrip at will. At 5th level, you can cast the <em>Frigid Barrage </em>spell once per long rest. <br />You can use your Intelligence, Wisdom, or Presence as your spellcasting attribute when casting spells this way.<br />If you are a spellcaster, you can also add these spells to your spell list. They are always prepared and do not count against the spells you can prepare each day.</li><li><strong>Element Flail:</strong> Of all parts of a Zhier, the tail is the point most connected to its spirit element. You can swing your tail like a natural weapon flail. This weapon has both the Light and Finesse properties, and deals 1d4 cold damage as it cold-snaps the point of collision.</li></ul></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "JW8DRSAG6B303I23"
+}

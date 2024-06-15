@@ -1,0 +1,23 @@
+{
+    "name": "Stout Halfling",
+    "type": "race",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Shorter on average than other halfling, and having a somewhat wider array of skin tones and eye colors, stouts are generally distinguishable from their lightfoot cousins at a distance. Along with brown, their eyes can reach shades of blue and green, and their hair; blondes and blacks.</p><p>Also known as Stronghearts in some settings, Stout Halfling often value friendship and comfortable homesteads above much else. It&rsquo;s not uncommon for stouts to live in the same household for centuries, protecting it both physically but also socially. As such, stout halfling are often the cornerstone of many communities that they are found within, helping shape the lifestyles of neighborhoods or villages for generations down the line. For the stout halflings who have this futurist outlook, it shapes much of the differences between them and others of their kind. Stout Halflings have a more patient viewpoint, being willing to undertake long and tedious tasks for long term payoffs. Those who leave their nest, for adventure or otherwise, often find this industriousness quite useful in the field. Once a group has been traveling together long enough, a stout halfling might even view the group as their new &ldquo;traveling home,&rdquo; forming a lasting and nigh indestructible bond with their companions.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Stout Halfling Traits</p><ul><li><strong>Attribute Increase: </strong>Your Constitution increases by 1.</li><li><strong>Brave: </strong>@Compendium[undertaking-chrystalis.abilities.NMT0ZOS6X5Q2VBCR]{Brave}</li><li><strong>Poison Resilience:</strong> @Compendium[undertaking-chrystalis.abilities.2N86D7WDIEBEN3HI]{Poison Resilience}</li><li><strong>Strongheart: </strong>@Compendium[undertaking-chrystalis.abilities.LBDZ48JLJVGKE7YO]{Strongheart}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "4QVY8F5OTNL1F6RU"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Rouncey Centaur",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Amongst centaurs, the rounceys are often the most respected, as it is a title earned rather than a name given. Rounceys are rangers, masters of the centaur art of of archery. Centaurs, long the masters of this long-held art, passing down their archery capability to the next generations. Those who learn, earn the name of rouncey.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Rouncey Centaur Traits</p><ul><li><strong>Compatibility: </strong>Bestial (or Hominid with <em>Alternate Compatibility</em>)</li><li><strong>Attribute Increase: </strong>Your Dexterity increases by 1.</li><li><strong>Weapon Proficiency:</strong> You have proficiency in Slingshots, Shortbows, and Longbows.</li><li><strong>Armor Proficiency: </strong>You have proficiency in Light Armor.</li><li><strong>Over-Draw:</strong> @Compendium[undertaking-chrystalis.abilities.S8JQ93YE6EAA2F3P]{Over-Draw}</li><li><strong>Nessus&rsquo; Liver:</strong> @Compendium[undertaking-chrystalis.abilities.GL4BGAFGX1KAQI32]{Nessus Liver}</li><li><strong><em>*Alternate Compatibility:</em></strong> You can choose to instead have the Hominid compatibility for the sake of mix-racing, gaining the following traits.<ul><li><strong>Removed Trait: </strong>You do not gain the &ldquo;Nessus&rsquo; Liver&rdquo; trait from this branch race.</li></ul></li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "27L3GSUE1FTSCW4M"
+}

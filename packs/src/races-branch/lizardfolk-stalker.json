@@ -1,0 +1,23 @@
+{
+    "name": "Lizardfolk Stalker",
+    "type": "race",
+    "img": "icons/creatures/reptiles/dragon-horned-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Amongst all other lizardfolk, stalkers are some of the highest respected. Lizardfolk stalkers are hunters, capable of hunting in even the thickest and deepest marshes, and with the hungriest maws for combat. To earn this role, stalkers hardened their scales daily through manual prodding and calousing over years, causing a natural defensive layer able to even block some blades.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Lizardfolk Stalker Traits</p><ul><li><strong>Attribute Increase: </strong>Your Constitution increases by 1.</li><li><strong>Tough Scales: </strong>@Compendium[undertaking-chrystalis.abilities.0XQ9L6S70HW321JA]{Tough Scales}</li><li><strong>Swim Speed:</strong> You have a natural swim speed of 30 feet. If you already had 30 or more feet of swim speed, you gain an additional 10 feet of swim speed.</li><li><strong>Large Lungs:</strong> @Compendium[undertaking-chrystalis.abilities.4CLETYQZFB7MK8V3]{Large Lungs}</li><li><strong>Hungry Jaws:</strong> @Compendium[undertaking-chrystalis.abilities.N5UD3Q1K2NVGXJFU]{Hungry Jaws}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "GTZWNNYK3PSGML1M"
+}

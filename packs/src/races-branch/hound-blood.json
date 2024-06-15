@@ -1,0 +1,23 @@
+{
+    "name": "Blood HOUND",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>The most loyal of HOUNDs, blood HOUNDs are programmed to hunt down others. They also often take actions in combat to best set up their alpha to take control of the situation. <br />Blood HOUND fur tends to be slightly red tinted, especially in the underbelly.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Blood HOUND Traits</p><ul><li><strong>Attribute Increase: </strong>Your Strength increases by 1.</li><li><strong>Blood Hound: </strong>@Compendium[undertaking-chrystalis.abilities.6Z08OG3H8B0SJEYR]{Blood Hound}</li><li><strong>Set &lsquo;em Up:</strong> @Compendium[undertaking-chrystalis.abilities.IV7YXP6XKGAKTLL6]{Set em Up}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "2OBZQVEVVRUROWXX"
+}

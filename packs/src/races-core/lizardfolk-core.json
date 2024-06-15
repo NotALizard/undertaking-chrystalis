@@ -1,0 +1,23 @@
+{
+    "name": "Core Lizardfolk",
+    "type": "race",
+    "img": "icons/creatures/reptiles/dragon-horned-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Only a fool looks at the lizardfolk and sees nothing more than scaly humanoids. Their physical shape notwithstanding, lizardfolk have more in common with iguanas or dragons than they do with humans, dwarves, or elves. Lizardfolk possess an alien and inscrutable mindset, their desires and thoughts driven by a different set of basic principles than those of warm-blooded creatures. Their dismal swamp homes might lie hundreds of miles from the nearest human settlement, but the gap between their way of thinking and that of the smooth-skins is far greater.</p><p>Despite their alien outlook, some lizardfolk make an effort to understand and, in their own manner, befriend people of other races. Such lizardfolk make faithful and skilled allies.</p><p><strong>Alien Minds</strong></p><p>The lizardfolk's reptilian nature comes through not only in their appearance, but also in how they think and act. Lizardfolk that are not used to other races experience a more limited emotional life than other humanoids. Like most reptiles, their feelings largely revolve around fear, aggression, and pleasure.</p><p>Lizardfolk experience most feelings as detached descriptions of creatures and situations. For example, humans confronted by an angry troll experience fear on a basic level. Their limbs shake, their thinking becomes panicked and jumbled, and they react by instinct. The emotion of fear takes hold and controls their actions. In contrast, lizardfolk see emotions as traits assigned to other creatures, objects, and situations. A traditional lizardfolk doesn&rsquo;t think, &ldquo;I'm scared.&rdquo; Instead, aggressive, stronger creatures register to the lizardfolk as fearsome beings to be avoided if possible. If such creatures attack, lizardfolk flee, fighting only if cornered. Lizardfolk aren't scared of a troll; instead, they understand that a troll is a fearsome, dangerous creature and react accordingly.</p><p>Pleasurable people and things make life easier for lizardfolk. Pleasurable things should be preserved and protected, sometimes at the cost of the lizardfolk's own safety. The most pleasurable creatures and things are ones that allow lizardfolk to assess more situations as benign rather than fearsome.</p><h3>Lizardfolk Branches</h3><p>Lizardfolk culture is often defined by titles, earned like badges of approval. A lizardfolk title not only tells all what you are capable of, but what you are trusted to do.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "core",
+        "classDetails": "<p>Core Lizardfolk Traits</p><ul><li><strong>Attribute Increase: </strong>Your Constitution and Wisdom each increase by 1.</li><li><strong>Lifespan:</strong> Lizardfolk rarely live beyond their 60s, and reach maturity at around 13 years.</li><li><strong>Size: </strong>Medium; Lizardfolk tend to stand between 5 and 6.5 feet tall, commonly with a hunched posture that cuts about a foot off. Their forms can be either bulky or slender, with weights averaging 180 to 250 lbs.</li><li><strong>Speed: </strong>Your base ground speed is 30 feet.</li><li><strong>Skill Proficiency:</strong> You have proficiency in one of the following skills:</li><ul><li>Dexterity (Stealth)</li><li>Wisdom (Instinct)</li><li>Wisdom (Nature)</li><li>Wisdom (Perception)</li></ul><li><strong>Languages: </strong>You can speak, read, and write Common and either Draconic or Landspeak.</li><li><strong>Tough Scales: </strong>@Compendium[undertaking-chrystalis.abilities.L2LORIIKZEGBB2YT]{Tough Scales}</li><li><strong>Bite:</strong> @Compendium[undertaking-chrystalis.abilities.URKC44BHR5DLIN0M]{Bite}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "SY9REAMGZR40J5KU"
+}

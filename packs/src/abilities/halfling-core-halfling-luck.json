@@ -1,0 +1,25 @@
+{
+    "name": "Halfling Luck",
+    "type": "ability",
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Up to 2 times per long rest, when you roll a 1 on an attack roll or check, you can reroll the die and must use the new roll.&nbsp;</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "H4ODACYEZ4SK3PGZ"
+}

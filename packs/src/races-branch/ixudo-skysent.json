@@ -1,0 +1,23 @@
+{
+    "name": "Skysent Ixudo",
+    "type": "race",
+    "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
+    "system": {
+        "description": {
+            "value": "<p>Skysent ixudo tend to have more warm colorations and average a few inches shorter than the average ixudo.</p><p>The middle class of ixudo cultures, skysent are often given central society roles like crafters, squad leaders, and merchants.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Skysent Ixudo Traits</p><ul><li><strong>Compatibility: </strong>Avian</li><li><strong>Attribute Increase: </strong>Your Presence increases by 1.</li><li><strong>Skill Proficiency: </strong>You have proficiency in one Intelligence or Presence skill of your choice.</li><li><strong>Trade Proficiency:</strong> You are proficient in one Trade your choice.</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "ZHIXLWGQGB7U1IQ5"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Heavy Hooves",
+    "type": "ability",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>You have strong hooves and legs that can be used to bash creatures with. Your hooves can be used as a 1d6 bludgeoning natural weapon.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "93N5CX8O26LQ1WK3"
+}
