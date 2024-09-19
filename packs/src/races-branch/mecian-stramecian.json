@@ -1,0 +1,23 @@
+{
+    "name": "Str\u0101mecian",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Str\u0101mecians have built up particular dexterity in their tails, becoming able to use them in ways more numerous than most. This skill makes them expert thieves and assassins, or simply great multitaskers. While it is possible to be born with a talent or dexterity that tends toward being a str\u0101mecian, this trait is not genetic. It is, however, a skill that can be lost if not trained at a young age. It is also a skill often lost by str\u0101mecians who go into service, where their more unique attributes get pushed down and normalized as part of training. For this reason, it is said that no str\u0101mecian survives the army.</p><p>Adult mecians with such capabilities, regardless of their origins, are often called &ldquo;str\u0101mecians,&rdquo; an insult that may be translated literally to say &ldquo;street rat,&rdquo; referring to a common stereotype. However, using more cultural context, it translates closer to &ldquo;draft dodger,&rdquo; or simply &ldquo;space waster.&rdquo; Despite its nastier origins, the term stuck and is now casually used to refer more broadly to any mecian who breaks the mold, even as a compliment. <br />Despite a more controversial military history, some str\u0101mecians are hired or trained as specialists for their capabilities, even assassins.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Str\u0101mecian Traits</p><ul><li><strong>Attribute Increase: </strong>Your Dexterity increases by 1.</li><li><strong>Skill Proficiency:</strong> You have proficiency in Dexterity (Sleight of Hand).</li><li><strong>Tri-Wield:</strong> @Compendium[undertaking-chrystalis.abilities.AIOET752ATLIBPCG]{Tri-Wield}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "7MNGI5E0XJLYNE71"
+}

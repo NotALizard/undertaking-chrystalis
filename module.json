@@ -3,7 +3,7 @@
     "name": "undertaking-chrystalis",
     "title": "Chrystalis Undertaking Homebrew",
     "description": "A collection of Hudson's non-core content.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "compatibility": {
       "minimum": "11",
       "verified": "11"
@@ -63,14 +63,6 @@
         "name": "abilities",
         "label": "Abilities (Chrystalis)",
         "path": "./packs/abilities.db",
-        "entity": "Item",
-        "type": "Item",
-        "system": "undertaking"
-      },
-      {
-        "name": "archetypes-wizard",
-        "label": "Wizard: Arcane Archetypes (Chrystalis)",
-        "path": "./packs/archetypes-wizard.db",
         "entity": "Item",
         "type": "Item",
         "system": "undertaking"
