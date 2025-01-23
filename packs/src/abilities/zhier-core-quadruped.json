@@ -4,7 +4,7 @@
     "img": "icons/creatures/abilities/paw-print-tan.webp",
     "system": {
         "description": {
-            "value": "<p>You are a quadrupedal creature, walking on four legs. You also have no arms to wield weapons, cast spells, interact with objects that require hands or arms, or ride creatures of equal or smaller size than you.</p>",
+            "value": "<p>You are a quadrupedal creature, walking on four legs.  You also have no arms to wield weapons, cast spells, control a mount, or otherwise interact with objects that require hands or arms.</p>",
             "chat": "",
             "unidentified": ""
         },
